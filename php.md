@@ -10,7 +10,6 @@ php -S localhost:8???
 ```
 <br> 7 . Linux editors [vim](http://vim.rtorr.com/), [nano](http://www.howtogeek.com/howto/42980/the-beginners-guide-to-nano-the-linux-command-line-text-editor/) and [gedit](https://en.wikipedia.org/wiki/Gedit)
 <br> 8 . [PHP Tutorial](http://www.w3schools.com/php/) 
-
 <br> 9 . Ygritte FAQ.
 ```
 cat /home/share/misc/ygrittefaq.txt | more
