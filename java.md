@@ -15,7 +15,7 @@ cat /home/share/misc/ygrittefaq.txt | more
 <br> 11 . [The mind behind Linux | Linus Torvalds](https://www.youtube.com/watch?v=o8NPllzkFhE)
 <br> 12 . Unit Descriptors: [H17135](http://www.sqa.org.uk/files/hn/H17135.pdf), [H17235](http://www.sqa.org.uk/files/hn/H17235.pdf) and [HL9X35](https://www.sqa.org.uk/files/hn/HL9X35.pdf)
 <br> 13 . [Oracle Java Tutorial](https://docs.oracle.com/javase/tutorial/)
-<br> 14 . [Java Introduction](https://docs.google.com/presentation/d/1dsZd2c00zmYxtRmyCM6NK-2RxiIFhm7JzrNebpi7v5A/pub?start=false&loop=false&delayms=3000&slide=id.p10)
+<br> 14 . [Java Introduction](https://docs.google.com/presentation/d/1dsZd2c00zmYxtRmyCM6NK-2RxiIFhm7JzrNebpi7v5A/edit?usp=drivesdk)
 
 ## Exercises
 <br>1 . Complete this tutorial: [The Art Of The Command Line](https://github.com/jlevy/the-art-of-command-line)
