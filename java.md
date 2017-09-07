@@ -16,6 +16,7 @@ cat /home/share/misc/ygrittefaq.txt | more
 <br> 12 . Unit Descriptors: [H17135](http://www.sqa.org.uk/files/hn/H17135.pdf), [H17235](http://www.sqa.org.uk/files/hn/H17235.pdf) and [HL9X35](https://www.sqa.org.uk/files/hn/HL9X35.pdf)
 <br> 13 . [Oracle Java Tutorial](https://docs.oracle.com/javase/tutorial/)
 <br> 14 . [Java Introduction](https://docs.google.com/presentation/d/1dsZd2c00zmYxtRmyCM6NK-2RxiIFhm7JzrNebpi7v5A/edit?usp=drivesdk)
+<br> 15 . Answer to exercise 1:
 ```
 cp /home/share/java/exercises/warmup/ex1/Exercises.java ~/workspace/warmup/src
 ```
