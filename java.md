@@ -1,3 +1,46 @@
+# Week 2
+
+<br>1 . [Oracle Certified Associate Java 7 Programmer 1](http://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=5001&get_params=p_exam_id:1Z0-803&p_org_id=&lang=)
+<br>2 . [OCA Java 7 Book](http://www.amazon.co.uk/OCA-Java-Programmer-Certification-Guide/dp/1617291048)
+<br>3 . Linux editors [vim](http://vim.rtorr.com/), [nano](http://www.howtogeek.com/howto/42980/the-beginners-guide-to-nano-the-linux-command-line-text-editor/) and [gedit](https://en.wikipedia.org/wiki/Gedit)
+<br>4 . [Oracle OO Tutorial](https://docs.oracle.com/javase/tutorial/java/concepts/index.html)
+<br>5 . Setting up screen.
+```
+vim ~/.screen_layout
+```
+```
+split -v
+screen -t s1
+focus
+screen -t s2
+split
+focus
+screen -t s3
+focus
+```
+```
+vim ~/.screenrc
+```
+```
+defscrollback 10000
+source .screen_layout
+layout save def
+startup_message off
+# switch windows with F3 (prev) and F4 (next)
+bindkey "^[OR" prev
+bindkey "^[OS" next
+# mouse tracking allows to switch region focus by clicking
+mousetrack on
+```
+
+## Exercises
+<br>1 . Continue with the warm up exercises from Week 1.
+<br>2 . Start the Java Foundations course in [Oracle Academy](http://ilearning.oracle.com/ilearn/en/learner/jsp/login.jsp?site=OracleAcad)
+<br>3 . In your groups create a 10 minute presentation that answers the following questions:
+<br>What is OOP?
+<br>What are the advantages of OOP?
+<br>Explain the term "Instantiating an object in Java" -  provide a code example.
+
 # Week 1
 <br> 1 . [Corners Game](https://docs.google.com/document/d/1f8YCnRpKR5dgO-aP77ZXJg5SU6BWLMkiLsc99n1WZe4/pub)
 <br> 2 . [Netcraft Survey](http://news.netcraft.com/archives/2015/10/16/october-2015-web-server-survey.html)
