@@ -32,7 +32,7 @@ bindkey "^[OS" next
 # mouse tracking allows to switch region focus by clicking
 mousetrack on
 ```
-<br> 6 . Answer to Exercise 1:
+<br> 6 . Answer to Exercise 2:
 ```
 cp /home/share/java/exercises/warmup/ex2/Exercises.java ~/workspace/examples/src
 ```
