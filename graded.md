@@ -1,3 +1,7 @@
+# Week 2
+<br> 1 . [The mind behind Linux | Linus Torvalds](https://www.youtube.com/watch?v=o8NPllzkFhE)
+<br> 2 . [How To Mindmap](https://www.youtube.com/watch?v=u5Y4pIsXTV0)
+
 # Week 1 
 <br> 1 . [Unit Descriptor](https://www.sqa.org.uk/files/hn/H1J834.pdf)
 <br> 2 . [Corners Game](https://docs.google.com/document/d/1f8YCnRpKR5dgO-aP77ZXJg5SU6BWLMkiLsc99n1WZe4/pub)

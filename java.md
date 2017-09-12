@@ -4,6 +4,9 @@
 <br>2 . [OCA Java 7 Book](http://www.amazon.co.uk/OCA-Java-Programmer-Certification-Guide/dp/1617291048)
 <br>3 . Linux editors [vim](http://vim.rtorr.com/), [nano](http://www.howtogeek.com/howto/42980/the-beginners-guide-to-nano-the-linux-command-line-text-editor/) and [gedit](https://en.wikipedia.org/wiki/Gedit)
 <br>4 . [Oracle OO Tutorial](https://docs.oracle.com/javase/tutorial/java/concepts/index.html)
+<!--
+Computer Science Principles Lab: Java - 4
+-->
 <br>5 . Setting up screen.
 ```
 vim ~/.screen_layout
