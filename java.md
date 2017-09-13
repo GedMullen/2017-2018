@@ -39,6 +39,10 @@ mousetrack on
 ```
 cp /home/share/java/exercises/warmup/ex2/Exercises.java ~/workspace/examples/src
 ```
+<br> 7 . Console input example:
+```
+cp /home/share/java/exercises/input/Controller.java ~/workspace/examples/src
+```
 
 ## Exercises
 <br>1 . Continue with the warm up exercises from Week 1.
@@ -47,6 +51,9 @@ cp /home/share/java/exercises/warmup/ex2/Exercises.java ~/workspace/examples/src
 <br>What is OOP?
 <br>What are the advantages of OOP?
 <br>Explain the term "Instantiating an object in Java" -  provide a code example.
+<br>4 . Modify the Controller.java to check for the username "admin" and password "password". Output a successful login message if the user enters the correct username/password combination.
+<br>5 . Once logged in prompt for the name and age of the user and display the information as a welcome message.
+<br>6 . Create a menu that allows the user to execute each of the warmup exercises.
 
 # Week 1
 <br> 1 . [Corners Game](https://docs.google.com/document/d/1f8YCnRpKR5dgO-aP77ZXJg5SU6BWLMkiLsc99n1WZe4/pub)
