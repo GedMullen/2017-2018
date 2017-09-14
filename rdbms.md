@@ -1,5 +1,6 @@
 # Week 2
 <br> 1 . [MySQL Example Employee Database](https://dev.mysql.com/doc/employee/en/sakila-structure.html)
+<br> 2 . Complete this tutorial: [The Art Of The Command Line](https://github.com/jlevy/the-art-of-command-line)
 
 ## Exercises 
 
