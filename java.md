@@ -48,6 +48,7 @@ cp /home/share/java/exercises/input/Controller.java ~/workspace/examples/src
 ```
 cp /home/share/java/exercises/warmup/ex3-4/*.java ~/workspace/examples/src
 ```
+<br> 10 . [Google Java coding standards](https://google.github.io/styleguide/javaguide.html)
 
 ## Exercises
 <br>1 . Continue with the warm up exercises from Week 1.
