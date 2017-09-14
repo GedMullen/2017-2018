@@ -1,12 +1,14 @@
-<!--
+# Week 2
+<br> 1 . [MySQL Example Employee Database](https://dev.mysql.com/doc/employee/en/sakila-structure.html)
+
+## Exercises 
+
+<br>1 . Complete this tutorial: [Learning the Command Line on Codecademy](https://www.codecademy.com/learn/learn-the-command-line)
 <br>2 . In groups - study the [MySQL Example Employee Database](https://dev.mysql.com/doc/employee/en/sakila-structure.html) and identify what information you can derive from the database e.g. the oldest employee etc. Document you findings on Ygritte in a file called employees.txt. You can use gedit to edit the file:
 ```
 gedit employees.txt
 ```
-<br> 2 . [MySQL Example Employee Database](https://dev.mysql.com/doc/employee/en/sakila-structure.html)
-<br> 8 . [The Art Of The Command Line](https://github.com/jlevy/the-art-of-command-line)
-<br> 9 . [SQL Tutorial](http://www.w3schools.com/sql/)
--->
+
 # Week 1 
 <br> 1 . [Unit Descriptor](http://www.sqa.org.uk/files/hn/H16W35.pdf)
 <br> 2 . [Corners Game](https://docs.google.com/document/d/1f8YCnRpKR5dgO-aP77ZXJg5SU6BWLMkiLsc99n1WZe4/pub)
