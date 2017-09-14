@@ -44,6 +44,10 @@ cp /home/share/java/exercises/warmup/ex2/Exercises.java ~/workspace/examples/src
 cp /home/share/java/exercises/input/Controller.java ~/workspace/examples/src
 ```
 <br> 8 . [String comparison](https://stackoverflow.com/questions/513832/how-do-i-compare-strings-in-java)
+<br> 9 . Answer to Exercise 3&4:
+```
+cp /home/share/java/exercises/warmup/ex3-4/*.java ~/workspace/examples/src
+```
 
 ## Exercises
 <br>1 . Continue with the warm up exercises from Week 1.
