@@ -1,9 +1,13 @@
 # Week 2
-<br> 1 . [PHP Tutorial](http://www.w3schools.com/php/) 
-<br> 2 . [HTML Forms](http://www.w3schools.com/html/html_forms.asp)
-<br> 3 . [HTML Tables](http://www.w3schools.com/html/html_tables.asp)
-<br> 4 . [Bootstrap](http://www.w3schools.com/bootstrap/)
-<br> 5 . Setting up screen.
+<br>1 . Turning off code completion for PHP in Eclipse:
+```
+Window->Preferences->PHP->Editor->Content Assist->Uncheck Enable Auto Activation
+```
+<br> 2 . [PHP Tutorial](http://www.w3schools.com/php/) 
+<br> 3 . [HTML Forms](http://www.w3schools.com/html/html_forms.asp)
+<br> 4 . [HTML Tables](http://www.w3schools.com/html/html_tables.asp)
+<br> 5 . [Bootstrap](http://www.w3schools.com/bootstrap/)
+<br> 6 . Setting up screen.
 ```
 vim ~/.screen_layout
 ```
