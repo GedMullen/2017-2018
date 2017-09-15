@@ -1,3 +1,39 @@
+# Week 2
+<br> 1 . [PHP Tutorial](http://www.w3schools.com/php/) 
+<br> 2 . [HTML Forms](http://www.w3schools.com/html/html_forms.asp)
+<br> 3 . [HTML Tables](http://www.w3schools.com/html/html_tables.asp)
+<br> 4 . [Bootstrap](http://www.w3schools.com/bootstrap/)
+<br> 5 . Setting up screen.
+```
+vim ~/.screen_layout
+```
+```
+split -v
+screen -t s1
+focus
+screen -t s2
+split
+focus
+screen -t s3
+focus
+```
+```
+vim ~/.screenrc
+```
+```
+defscrollback 10000
+source .screen_layout
+layout save def
+startup_message off
+# switch windows with F3 (prev) and F4 (next)
+bindkey "^[OR" prev
+bindkey "^[OS" next
+# mouse tracking allows to switch region focus by clicking
+mousetrack on
+```
+## Exercises 
+<br>2 . Continue the [PHP Tutorial](http://www.w3schools.com/php/default.asp) and run some of the exercises on Ygritte using eclipse. 
+
 # Week 1
 <br> 1 . Unit Descriptors [F6C235](http://www.mysqa.info/files/hn/F6C235.pdf) and [HL9W35](https://www.sqa.org.uk/files/hn/HL9W35.pdf)
 <br> 2 . [Dynamically Generated Content](https://docs.google.com/presentation/d/1bWMd9ypXXUJGt-jDpjpRSfh6_2zHMRKjjBcldO0OMeM/pub?start=false&loop=false&delayms=60000&slide=id.p3)
