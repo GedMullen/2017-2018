@@ -32,7 +32,8 @@ bindkey "^[OS" next
 mousetrack on
 ```
 ## Exercises 
-<br>2 . Continue the [PHP Tutorial](http://www.w3schools.com/php/default.asp) and run some of the exercises on Ygritte using eclipse. 
+<br>1 . Continue the [PHP Tutorial](http://www.w3schools.com/php/default.asp) and run some of the exercises on Ygritte using eclipse. 
+<br>2 . Modify [mysqlexample.php](https://gist.github.com/GedMullen/f58ea879c98ada9ca055) to output the name, dob, and salary of the top 10 highest paid employees in the database.
 
 # Week 1
 <br> 1 . Unit Descriptors [F6C235](http://www.mysqa.info/files/hn/F6C235.pdf) and [HL9W35](https://www.sqa.org.uk/files/hn/HL9W35.pdf)
