@@ -1,3 +1,15 @@
+# Week 3
+<br>1 . [Tutorials Point - Objects and Classes](http://www.tutorialspoint.com/java/java_object_classes.htm)
+<br>2 . [Inheritance Tutorial](https://www.tutorialspoint.com/java/java_inheritance.htm)
+<br>3 . [Overriding Tutorial](https://www.tutorialspoint.com/java/java_overriding.htm)
+<br>4 . [Encapsulation Tutorial](https://www.tutorialspoint.com/java/java_encapsulation.htm)
+<br>5 . [OOP Basics](https://www3.ntu.edu.sg/home/ehchua/programming/java/J3a_OOPBasics.html)
+
+## Exercises
+<br>1 . Complete tutorials 1-4 above.
+<br>2 . In your groups, create a 10 minute presentation on Inheritance, Overriding and Encapsulation. Describe what these concepts are using code examples. 
+<br>3 . Work through the [OOP Basics](https://www3.ntu.edu.sg/home/ehchua/programming/java/J3a_OOPBasics.html) tutorial.
+
 # Week 2
 
 <br>1 . [Oracle Certified Associate Java 7 Programmer 1](http://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=5001&get_params=p_exam_id:1Z0-803&p_org_id=&lang=)
