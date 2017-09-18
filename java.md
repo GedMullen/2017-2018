@@ -1,5 +1,5 @@
 # Week 3
-<br>1 . [Tutorials Point - Objects and Classes](http://www.tutorialspoint.com/java/java_object_classes.htm)
+<br>1 . [Objects and Classes Tutorial](http://www.tutorialspoint.com/java/java_object_classes.htm)
 <br>2 . [Inheritance Tutorial](https://www.tutorialspoint.com/java/java_inheritance.htm)
 <br>3 . [Overriding Tutorial](https://www.tutorialspoint.com/java/java_overriding.htm)
 <br>4 . [Encapsulation Tutorial](https://www.tutorialspoint.com/java/java_encapsulation.htm)
