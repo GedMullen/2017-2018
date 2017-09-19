@@ -1,3 +1,6 @@
+# Week 3
+<br>1 . [Study Guides](http://www.studygs.net/)
+
 # Week 2
 <br> 1 . [The mind behind Linux | Linus Torvalds](https://www.youtube.com/watch?v=o8NPllzkFhE)
 <br> 2 . [How To Mindmap](https://www.youtube.com/watch?v=u5Y4pIsXTV0)

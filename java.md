@@ -1,3 +1,11 @@
+<!--
+[Arrays](https://www.tutorialspoint.com/java/java_arrays.htm)
+[Array Lists](https://www.javatpoint.com/java-arraylist)
+<br> 3 . [Iterating Through ArrayList](https://gist.github.com/GedMullen/9223ae030ff1c9c5e99318279fc91452)
+
+1. Create a "Course" class that contains a course name (String) and a collection of of Students (ArrayList). Create a Controller class that allows the user to enter the name of a student. If the student is on the course the program should display the message "the student  is on the course" otherwise the message "the student is not on the course" should be output to the console..
+-->
+<!-- Java 8 Essential Training - Polymorphism -->
 # Week 3
 <br>1 . [Objects and Classes Tutorial](http://www.tutorialspoint.com/java/java_object_classes.htm)
 <br>2 . [Inheritance Tutorial](https://www.tutorialspoint.com/java/java_inheritance.htm)
