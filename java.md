@@ -4,6 +4,10 @@
 <br>3 . [Overriding Tutorial](https://www.tutorialspoint.com/java/java_overriding.htm)
 <br>4 . [Encapsulation Tutorial](https://www.tutorialspoint.com/java/java_encapsulation.htm)
 <br>5 . [OOP Basics](https://www3.ntu.edu.sg/home/ehchua/programming/java/J3a_OOPBasics.html)
+<br>6 . Answer to Warmup Exercises 5-11:
+```
+cp /home/share/java/exercises/warmup/ex5-11/*.java ~/workspace/examples/src
+```
 <!-- inheritance video -->
 
 ## Exercises
