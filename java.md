@@ -18,6 +18,10 @@ cp /home/share/java/exercises/warmup/ex5-11/*.java ~/workspace/examples/src
 <br>7 . [Arrays](https://www.tutorialspoint.com/java/java_arrays.htm)
 <br>8 . [Array Lists](https://www.javatpoint.com/java-arraylist)
 <br>9 . [Iterating Through ArrayList](https://gist.github.com/GedMullen/9223ae030ff1c9c5e99318279fc91452)
+<br>10 . Answer to ArrayList Exercise :
+```
+cp /home/share/java/exercises/arraylist/*.java ~/workspace/examples/src
+```
 <!-- inheritance video -->
 <!-- Using ArrayLists https://www.lynda.com/Java-tutorials/Using-ArrayLists/184457/374321-4.html -->
 
