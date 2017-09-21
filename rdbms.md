@@ -1,3 +1,27 @@
+# Week 3
+
+<br>1 . Using MySql on Ygritte interactively:
+```
+you@ygritte:~$ mysql -u student employees
+mysql> select * from employees limit 10;
+```
+<br>2 . Using MySql using a script
+
+```
+mkdir sqlexercises
+cd sqlexercises
+gedit test.sql
+select * from employees limit 10;
+you@ygritte:~$ mysql -t -u student employees < test.sql
+```
+
+<br>4 . [Select](http://www.w3schools.com/sql/sql_select.asp)
+<br>5 . [Where](http://www.w3schools.com/sql/sql_where.asp)
+<br>6 . [Order By](http://www.w3schools.com/sql/sql_orderby.asp)
+<br>7 . [Count](http://www.w3schools.com/sql/sql_func_count.asp)
+<br>8 . [And & Or](http://www.w3schools.com/sql/sql_and_or.asp)
+<br>9 . [Joins](http://www.w3schools.com/sql/sql_join.asp)
+
 # Week 2
 <br> 1 . [MySQL Example Employee Database](https://dev.mysql.com/doc/employee/en/sakila-structure.html)
 <br> 2 . Complete this tutorial: [The Art Of The Command Line](https://github.com/jlevy/the-art-of-command-line)
