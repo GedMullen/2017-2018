@@ -18,7 +18,7 @@ you@ygritte:~$ mysql -t -u student employees < test.sql
 <br>4 . [Select](http://www.w3schools.com/sql/sql_select.asp)
 <br>5 . [Where](http://www.w3schools.com/sql/sql_where.asp)
 <br>6 . [Order By](http://www.w3schools.com/sql/sql_orderby.asp)
-<br>7 . [Count](http://www.w3schools.com/sql/sql_func_count.asp)
+<br>7 . [Count](https://www.w3schools.com/sql/sql_count_avg_sum.asp)
 <br>8 . [And & Or](http://www.w3schools.com/sql/sql_and_or.asp)
 <br>9 . [Joins](http://www.w3schools.com/sql/sql_join.asp)
 
