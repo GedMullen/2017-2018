@@ -19,12 +19,14 @@ cp /home/share/java/exercises/warmup/ex5-11/*.java ~/workspace/examples/src
 <br>8 . [Array Lists](https://www.javatpoint.com/java-arraylist)
 <br>9 . [Iterating Through ArrayList](https://gist.github.com/GedMullen/9223ae030ff1c9c5e99318279fc91452)
 <!-- inheritance video -->
+<!-- Using ArrayLists https://www.lynda.com/Java-tutorials/Using-ArrayLists/184457/374321-4.html -->
 
 ## Exercises
 <br>1 . Complete tutorials 1-4 above.
 <br>2 . In your groups, create a 10 minute presentation on Inheritance, Overriding and Encapsulation. Describe what these concepts are using code examples. 
 <br>3 . Work through the [OOP Basics](https://www3.ntu.edu.sg/home/ehchua/programming/java/J3a_OOPBasics.html) tutorial.
-<br>4. Create a "Course" class that contains a course name (String) and a collection of of student names (ArrayList<String>). Create a Controller class that allows the user to enter the name of a student. If the student is on the course the program should display the message "the student is on the course" otherwise the message "the student is not on the course" should be output to the console.
+<br>4 . Create a "Course" class that contains a course name (String) and a collection of of student names (ArrayList<String>). Populate the ArrayList with students and print out the array list in your main method.
+<br>5 . Create a Controller class that allows the user to enter the name of a student. If the student is on the course the program should display the message "the student is on the course" otherwise the message "the student is not on the course" should be output to the console.
 
 # Week 2
 
