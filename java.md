@@ -11,13 +11,12 @@
 <br>3 . [Polymorphism Definition](http://whatis.techtarget.com/definition/polymorphism)
 <br>4 . [Polymorphism Tutorial 1](https://www.tutorialspoint.com/java/java_polymorphism.htm)
 <br>5 . [Polymorphism Tutorial 2](https://docs.oracle.com/javase/tutorial/java/IandI/polymorphism.html)
-<br>6 . [Red Dwarf Polymorph Episode] (http://reddwarf.wikia.com/wiki/RD:_Polymorph)
 
 ## Exercises
 
 <br>1 . In your groups, create a 10 minute presentation on Polymorphism using code examples. 
 <br>2 . Use the Bicycle example in [Polymorphism Tutorial 2](https://docs.oracle.com/javase/tutorial/java/IandI/polymorphism.html) and create an ArrayList<Bicycle> of different types of Bicycle objects. Iterate through the ArrayList and call printDescription() on each of the objects. 
-<br>3 . Create a Controller class that allows the user to enter the type (RoadBike etc) of Bicycle and then prompts them for the details of the Bycicle. Add an option for the user to print the Bikes that they have entered.
+<br>3 . Create a Controller class that allows the user to enter the type (RoadBike etc) of Bicycle and then prompts them for the details of the Bicycle. Add an option for the user to print the Bikes that they have entered.
 
 
 # Week 3
