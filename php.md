@@ -1,3 +1,25 @@
+# Week 3
+<br> 1 . [PHP Documentation](http://www.php.net/)
+<br> 2 . [PHP Coding Standards](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md)
+<br> 3 . Creating a database recap:
+```sql
+DROP DATABASE IF EXISTS <yourusername>;
+CREATE DATABASE <yourusername>;
+USE <yourusername>;
+```
+<br> 4 . Useful "sanity check" commands to put at the end of your script:
+```sql
+SHOW TABLES;
+DESCRIBE employees;
+SELECT * FROM employees LIMIT 10;
+```
+
+## Exercises
+<br>1 . Create a database based on [this conceptual diagram](https://drive.google.com/file/d/0B-CFaefA1v4RbkpXaG5GSWNrWjQ/view?usp=sharing).
+<br>2 . Insert test data into the your database.
+<br>3 . Write a PHP script called betged.php that outputs all the bets for all customers. 
+<br>4 . Continue with the [PHP Tutorial](http://www.w3schools.com/php/).
+
 # Week 2
 <br>1 . Turning off code completion for PHP in Eclipse:
 ```
