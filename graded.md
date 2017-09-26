@@ -1,3 +1,9 @@
+# Week 4
+<br>1 . [BCS Code of Conduct](http://www.bcs.org/category/6030)
+
+## Exercise
+<br>2 . In your groups create a file called wk4.txt and write single answer multiple choice questions on the [BCS Code of Conduct](http://www.bcs.org/category/6030).  
+
 # Week 3
 <br>1 . [Study Guides](http://www.studygs.net/)
 
