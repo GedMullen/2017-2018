@@ -11,6 +11,7 @@
 <br>3 . [Polymorphism Definition](http://whatis.techtarget.com/definition/polymorphism)
 <br>4 . [Polymorphism Tutorial 1](https://www.tutorialspoint.com/java/java_polymorphism.htm)
 <br>5 . [Polymorphism Tutorial 2](https://docs.oracle.com/javase/tutorial/java/IandI/polymorphism.html)
+<br>6 . [Polymorphism video](https://youtu.be/Lsdaztp3_lw)
 
 ## Exercises
 
