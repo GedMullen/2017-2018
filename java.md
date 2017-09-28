@@ -12,6 +12,13 @@
 <br>4 . [Polymorphism Tutorial 1](https://www.tutorialspoint.com/java/java_polymorphism.htm)
 <br>5 . [Polymorphism Tutorial 2](https://docs.oracle.com/javase/tutorial/java/IandI/polymorphism.html)
 <br>6 . [Polymorphism video](https://youtu.be/Lsdaztp3_lw)
+<br>7 . Exercise answer:
+```
+cp /home/share/java/exercises/poly/ex3/ *.java ~/workspace/examples/src
+cp /home/share/java/exercises/poly/ex4/ *.java ~/workspace/examples/src
+
+```
+
 
 ## Exercises
 
