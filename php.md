@@ -18,6 +18,9 @@ SELECT * FROM employees LIMIT 10;
 ```
 cat /home/share/misc/tunnel.txt 
 ```
+<br>10 . [Introduction To ERM](https://drive.google.com/open?id=0B-CFaefA1v4RZkpXSURLT1ZnSm8)
+<br>11 . [Database Design Tutorial](http://en.tekstenuitleg.net/articles/software/database-design-tutorial/intro.html)
+<br>12 . [Example ERDs](http://databaseanswers.org/data_models/index.htm)
 
 ## Exercises
 <br>1 . Create a database based on [this conceptual diagram](https://drive.google.com/file/d/0B-CFaefA1v4RbkpXaG5GSWNrWjQ/view?usp=sharing).
