@@ -4,7 +4,6 @@
 <br>2 . [Use Case Example - ATM](http://epf.eclipse.org/wikis/openup/core.tech.common.extend_supp/guidances/examples/use_case_spec_CD5DD9B1.html)
 <br>3 . [Agile Use Case Tutorial](http://www.agilemodeling.com/artifacts/useCaseDiagram.htm)
 <br>4 . [Ch3 UML Distilled Use Cases](http://www.amazon.co.uk/UML-Distilled-Standard-Modeling-Technology/dp/0321193687)
-<br>5 . UML Stage 1 Due 11.12.16 @ 11pm
 
 ## Exercises
 
