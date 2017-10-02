@@ -1,3 +1,19 @@
+# Week 5
+
+<br>1 . [Use Cases Tutorial](http://www.usability.gov/how-to-and-tools/methods/use-cases.html)
+<br>2 . [Use Case Example - ATM](http://epf.eclipse.org/wikis/openup/core.tech.common.extend_supp/guidances/examples/use_case_spec_CD5DD9B1.html)
+<br>3 . [Agile Use Case Tutorial](http://www.agilemodeling.com/artifacts/useCaseDiagram.htm)
+<br>4 . [Ch3 UML Distilled Use Cases](http://www.amazon.co.uk/UML-Distilled-Standard-Modeling-Technology/dp/0321193687)
+<br>5 . UML Stage 1 Due 11.12.16 @ 11pm
+
+## Exercises
+
+1. Think about the process of paying for shopping using a self service checkout at a supermarket. Write the main success scenario for this process. Create a file in Ygritte called checkout.txt in that directory to document your use case scenario. Make sure you include the precondition and trigger for the scenario.
+2. Create an alternative path/scenario for a shopping basket that includes alcohol.
+3. Create a separate Use Case that details the process of a checkout assistant checking the amount of money in the self service machine.
+4. Create a System Level Use Case diagram for the two use cases above using draw.io.
+5. Identify 4 other Use Cases associated with a computer system that serves a supermarket. Draw a system level use case diagram that shows these scenarios. 
+
 <!--
 [Arrays](https://www.tutorialspoint.com/java/java_arrays.htm)
 [Array Lists](https://www.javatpoint.com/java-arraylist)
