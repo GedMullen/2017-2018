@@ -1,3 +1,9 @@
+# Week 5
+<br>1 . [BCS Code of Conduct](http://www.bcs.org/category/6030)
+<br>2 . [IEEE Code of Ethics](http://www.ieee.org/about/corporate/governance/p7-8.html)
+## Exercise
+<br>1 . In your groups create a file called wk5.txt and write single answer multiple choice questions on the [BCS Code of Conduct](http://www.bcs.org/category/6030) and [IEEE Code of Ethics](http://www.ieee.org/about/corporate/governance/p7-8.html).  
+
 # Week 4
 <br>1 . [BCS Code of Conduct](http://www.bcs.org/category/6030)
 
