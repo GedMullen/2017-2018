@@ -1,3 +1,10 @@
+# Week 6
+
+1 . [CRC Model Tutorial](http://agilemodeling.com/artifacts/crcModel.htm)
+<br>2 . [UML Distilled CRC Cards - Page 75](http://www.amazon.co.uk/UML-Distilled-Standard-Modeling-Technology/dp/0321193687) 
+<br>1 . [Class Diagrams Tutorial](http://agilemodeling.com/artifacts/classDiagram.htm)
+<br>3 . [UML Class Diagrams](https://drive.google.com/file/d/0B-CFaefA1v4RTmhRa2NEUHpFcXc/view?usp=docslist_api)
+
 # Week 5
 
 <br>1 . [Use Cases Tutorial](http://www.usability.gov/how-to-and-tools/methods/use-cases.html)
