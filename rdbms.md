@@ -5,7 +5,7 @@
 <br>3 . [Order By](http://www.w3schools.com/sql/sql_orderby.asp)
 <br>4 . [Count](https://www.w3schools.com/sql/sql_count_avg_sum.asp)
 <br>5 . [And & Or](http://www.w3schools.com/sql/sql_and_or.asp)
-<br>6 . [Joins](http://www.w3schools.com/sql/sql_join.asp)
+<br>6 . [Dates](http://www.w3schools.com/sql/sql_dates.asp)
 
 ## Exercises
 
