@@ -1,3 +1,13 @@
+# Week 5
+<br> 1 . [PHP CRUD Tutorial](https://www.startutorial.com/articles/view/php-crud-tutorial-part-1)
+<br> 2 . Bootstrap files:
+```
+cp -r /home/share/bootstrap/* .
+```
+
+## Excercises 
+<br> 1 . Complete the [PHP CRUD Tutorial](https://www.startutorial.com/articles/view/php-crud-tutorial-part-1) and install and run it on Ygritte. 
+
 <!-- dealines wk 4 -->
 # Week 3 & 4
 <br> 1 . [PHP Documentation](http://www.php.net/)
