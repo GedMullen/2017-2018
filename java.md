@@ -4,6 +4,17 @@
 <br>2 . [UML Distilled CRC Cards - Page 75](http://www.amazon.co.uk/UML-Distilled-Standard-Modeling-Technology/dp/0321193687) 
 <br>3 . [Class Diagrams Tutorial](http://agilemodeling.com/artifacts/classDiagram.htm)
 <br>4 . [UML Class Diagrams](https://drive.google.com/file/d/0B-CFaefA1v4RTmhRa2NEUHpFcXc/view?usp=docslist_api)
+<br>6 . [Translating UML to Java](https://drive.google.com/open?id=0B-CFaefA1v4RS1JYYjRiLWlvZGs)
+
+## Exercises
+
+1 . For the each of the following [use case examples](https://docs.google.com/document/d/16bjjcqkVtlwYeDtSx9ekH_pQCFNNoFjQtit5UGgxO-w/edit?usp=docslist_api) create a CRC card file on Ygritte. Name the file crc.txt.
+<br>2 . Create CRC cards for the following [KitBuildIt scenario](https://docs.google.com/document/d/1LfL8Q6N1RXKshODRG5qTILTMhUhwRuHxJlr60PwaolI/edit?usp=sharing) 
+<br>3 . In your groups create a class diagram from the CRC cards you created for KitBuildIt.
+<!--
+<br>4 . Create a project in Eclipse on Ygritte called "uml2java" and Implement your detailed class diagrams in Java.
+<br>5 . Write test code to populate your domain objects.
+-->
 
 # Week 5
 
