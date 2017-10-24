@@ -4,7 +4,9 @@
 ```
 firefox http://profethics.hnd-computing.info
 ```
-<br>1 . In your groups create a file called wk6.txt and write single answer multiple choice questions on the [BCS Code of Conduct](http://www.bcs.org/category/6030).
+
+## Exercises
+<br>1 . In your groups create a file called wk6.txt and write single answer multiple choice questions on the topic provided.
 
 # Week 5
 <br>1 . [BCS Code of Conduct](http://www.bcs.org/category/6030)
