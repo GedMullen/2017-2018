@@ -1,3 +1,10 @@
+# Week 6
+
+<br>1 . Professionalism and Ethics in Computing. 
+```
+firefox http://profethics.hnd-computing.info
+```
+
 # Week 5
 <br>1 . [BCS Code of Conduct](http://www.bcs.org/category/6030)
 <br>2 . [IEEE Code of Ethics](http://www.ieee.org/about/corporate/governance/p7-8.html)
