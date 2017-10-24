@@ -10,7 +10,7 @@
 ## Exercises
 
 1 . For the each of the following [use case examples](https://docs.google.com/document/d/16bjjcqkVtlwYeDtSx9ekH_pQCFNNoFjQtit5UGgxO-w/edit?usp=docslist_api) create a CRC card file on Ygritte. Name the file crc.txt.
-<br>2 . In your groups create CRC cards for the following [KitBuildIt scenario](https://docs.google.com/document/d/1LfL8Q6N1RXKshODRG5qTILTMhUhwRuHxJlr60PwaolI/edit?usp=sharing) 
+<br>2 . In your groups create a kitcrc.txt file on Ygritte and detail CRC cards for the following [KitBuildIt scenario](https://docs.google.com/document/d/1LfL8Q6N1RXKshODRG5qTILTMhUhwRuHxJlr60PwaolI/edit?usp=sharing) 
 <br>3 . In your groups create a class diagram from the CRC cards you created for KitBuildIt.
 <!--
 <br>4 . Create a project in Eclipse on Ygritte called "uml2java" and Implement your detailed class diagrams in Java.
