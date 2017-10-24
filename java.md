@@ -5,6 +5,7 @@
 <br>3 . [Class Diagrams Tutorial](http://agilemodeling.com/artifacts/classDiagram.htm)
 <br>4 . [UML Class Diagrams](https://drive.google.com/file/d/0B-CFaefA1v4RTmhRa2NEUHpFcXc/view?usp=docslist_api)
 <br>5 . [Translating UML to Java](https://drive.google.com/open?id=0B-CFaefA1v4RS1JYYjRiLWlvZGs)
+<br>6 . [Example CRC Answers](https://docs.google.com/document/d/1yvUCpbw0oomFoHb_7ILwoKIoluMLwvsUtA0PUxMbccc/edit?usp=sharing)
 
 ## Exercises
 
