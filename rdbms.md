@@ -1,3 +1,23 @@
+# Week 6 
+<br>1 . Week 5 Answers:
+```
+mysql -t -u student employees < /home/share/rdbms/wk5answers.sql
+vim /home/share/rdbms/wk5answers.sql
+```
+
+## Exercises
+
+<br>1 . Count the number of employees in the employees database.
+<br>2 . Count the number of female employees that were born in the 50s.
+<br>3 . What is the employee id of the person with the highest salary?
+<br>4 . Find the employee details (name DOB etc) of the person with the highest salary (you will need to join the salaries and employees tables).
+<br>5 . Find the employee details of the person with the lowest salary.
+<br>6 . List all the salaries of Berni Sanella DOB 29/8/61 - order the query by to_date;
+<br>7 . Bernie contributed 10% of her  salary to her pension. How much per annum did she pay into her pension for each of her  salaries? Create a query to output the pension contributions for each of her salaries.
+<br>8 . Create an alias for the pension column in Q5 called “Pension”.
+<br>9 . How much was Bernie paid in the month of October 1997 ( salary / 12 )?
+
+
 # Week 5
 
 <br>1 . [Select](http://www.w3schools.com/sql/sql_select.asp)
