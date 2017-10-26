@@ -4,6 +4,12 @@
 mysql -t -u student employees < /home/share/rdbms/wk5answers.sql
 vim /home/share/rdbms/wk5answers.sql
 ```
+<br>2 . [Joins](http://www.w3schools.com/sql/sql_join.asp)
+<br>3 . [Elliot uses Vim](https://drive.google.com/open?id=0B-CFaefA1v4RSC1XQTF5TVIyZHc)
+<br>4 . [Exiting Vim 1](https://drive.google.com/open?id=0B-CFaefA1v4RY1h5VjM2c3BZUGs)
+<br>5 . [Exiting Vim 2](https://drive.google.com/open?id=0B-CFaefA1v4RaHZrdVdlZEpPNUk)
+<br>6 . [Vim Cheat Sheet](https://vim.rtorr.com/)
+<br>7 . [Codecademy - Learn SQL ](https://www.codecademy.com/learn/learn-sql)
 
 ## Exercises
 
