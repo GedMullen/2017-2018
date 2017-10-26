@@ -13,7 +13,7 @@ vim /home/share/rdbms/wk5answers.sql
 
 ## Exercises
 
-<br>1 . Count the number of employees in the employees database.
+<br>1 . Create an SQL script in your sqlexercises folder called wk6.sql that counts the number of employees in the employees database.
 <br>2 . Count the number of female employees that were born in the 50s.
 <br>3 . What is the employee id of the person with the highest salary?
 <br>4 . Find the employee details (name DOB etc) of the person with the highest salary (you will need to join the salaries and employees tables).
