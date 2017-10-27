@@ -12,9 +12,9 @@ cp /home/share/phpcrud/addbets/betged.sql .
 ## Excercises 
 <br> 1 . Complete the [PHP CRUD Tutorial](https://www.startutorial.com/articles/view/php-crud-tutorial-part-1) and install and run it on Ygritte. 
 <br> 2 . Using the betged.sql script you created in Week 3 you are required to create a "Bet Ged" web application. Implement the following screens:
-<br>[Create Customer](https://drive.google.com/open?id=0B-CFaefA1v4RVXV4eVlKSEhySTA)
-<br>[Read Customer](https://drive.google.com/open?id=0B-CFaefA1v4RWDhDMTVNNGdOS00)
-<br>[Add Bet](https://drive.google.com/open?id=0B-CFaefA1v4RbEFFcTdya0hhSzA)
+<br> (a) [Create Customer](https://drive.google.com/open?id=0B-CFaefA1v4RVXV4eVlKSEhySTA)
+<br> (b) [Read Customer](https://drive.google.com/open?id=0B-CFaefA1v4RWDhDMTVNNGdOS00)
+<br> (c) [Add Bet](https://drive.google.com/open?id=0B-CFaefA1v4RbEFFcTdya0hhSzA)
 <br> 3 . Write an SQL script that checks that your bet has been successfully inserted into the database. 
 
 
