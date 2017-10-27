@@ -1,12 +1,22 @@
-# Week 5
+# Week 5 & 6
 <br> 1 . [PHP CRUD Tutorial](https://www.startutorial.com/articles/view/php-crud-tutorial-part-1)
 <br> 2 . Bootstrap files:
 ```
 cp -r /home/share/bootstrap/* .
 ```
+<br> 3 . Example betged.sql: 
+```
+cp /home/share/phpcrud/addbets/betged.sql .
+```
 
 ## Excercises 
 <br> 1 . Complete the [PHP CRUD Tutorial](https://www.startutorial.com/articles/view/php-crud-tutorial-part-1) and install and run it on Ygritte. 
+<br> 2 . Using the betged.sql script you created in Week 3 you are required to create a "Bet Ged" web application. Implement the following screens:
+<br>[Read Customer](https://drive.google.com/open?id=0B-CFaefA1v4RWDhDMTVNNGdOS00)
+<br>[Create Customer](https://drive.google.com/open?id=0B-CFaefA1v4RVXV4eVlKSEhySTA)
+<br>[Add Bet](https://drive.google.com/open?id=0B-CFaefA1v4RbEFFcTdya0hhSzA)
+<br> 3 . Write an SQL script that checks that your bet has been successfully inserted into the database. 
+
 
 <!-- dealines wk 4 -->
 # Week 3 & 4
