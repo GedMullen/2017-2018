@@ -7,7 +7,9 @@
 <br>6 . [Librarian Sequence Diagram](https://drive.google.com/file/d/0B-CFaefA1v4RNDR3TFlJOWg5ZkE/view?usp=sharing)
 <br>7 . [Bank Account Sequence Diagram](https://drive.google.com/file/d/0B-CFaefA1v4RY2d2LThPYkR3MjQ/view?usp=sharing)
 <br>8 . [Golfer Sequence Diagram](https://drive.google.com/file/d/0B-CFaefA1v4RS1JISEpJQTR4bGc/view?usp=sharing)
-
+<!--
+Simons sequence diagrams - https://www.lynda.com/Java-tutorials/Working-advanced-UML-diagrams/96949/106095-4.html
+-->
 ## Exercises
 1 . For the each of the following [use case examples](https://docs.google.com/document/d/16bjjcqkVtlwYeDtSx9ekH_pQCFNNoFjQtit5UGgxO-w/edit?usp=docslist_api) use the [example CRC answers](https://docs.google.com/document/d/1yvUCpbw0oomFoHb_7ILwoKIoluMLwvsUtA0PUxMbccc/edit?usp=sharing) from Week 6 to create Sequence Diagrams.
 <br>2 . In groups choose your own scenario and create an Activity Diagram and a Statechart diagram for the scenario you have chosen. 
