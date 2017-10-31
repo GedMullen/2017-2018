@@ -1,3 +1,12 @@
+# Week 7
+
+<br>1 . Introduction To Software:
+```
+firefox http://softdev.hnd-computing.info/
+```
+## Exercises
+<br>1 . In your groups create a file called wk7.txt and write single answer multiple choice questions on the topic provided.
+
 # Week 6
 
 <br>1 . Professionalism and Ethics in Computing. 
