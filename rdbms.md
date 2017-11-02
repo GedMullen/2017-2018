@@ -10,7 +10,6 @@
 mysql -t -u student employees < /home/share/rdbms/wk6answers-parta.sql
 vim /home/share/rdbms/wk6answers-parta.sql
 ```
--->
 ## Exercises 
 <br>1 . Continue with Week 6 exercises.
 
