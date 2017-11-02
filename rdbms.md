@@ -5,11 +5,10 @@
 <br>3 . [Functions](http://www.w3schools.com/sql/sql_functions.asp)
 <br>4 . [Inner Join Alternative](https://gist.github.com/GedMullen/da443d8e6956046c02b2)
 <br>5 . [Joins Video](https://www.youtube.com/watch?v=I6f42xiPwzs)
-<!--
-<br>6 . Week 6 Answers:
+<br>6 . Week 6 Answers (1-5):
 ```
-mysql -t -u student employees < /home/share/rdbms/wk6answers.sql
-vim /home/share/rdbms/wk6answers.sql
+mysql -t -u student employees < /home/share/rdbms/wk6answers-parta.sql
+vim /home/share/rdbms/wk6answers-parta.sql
 ```
 -->
 ## Exercises 
