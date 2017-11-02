@@ -4,11 +4,12 @@
 <br>2 . [Dates](http://www.w3schools.com/sql/sql_dates.asp)
 <br>3 . [Functions](http://www.w3schools.com/sql/sql_functions.asp)
 <br>4 . [Inner Join Alternative](https://gist.github.com/GedMullen/da443d8e6956046c02b2)
-<br>6 . Week 6 Answers:
+<br>5 . Week 6 Answers:
 ```
 mysql -t -u student employees < /home/share/rdbms/wk6answers.sql
 vim /home/share/rdbms/wk6answers.sql
 ```
+<br>6 . [Joins Video](https://www.youtube.com/watch?v=I6f42xiPwzs)
 
 ## Exercises
 <br>Create a "wk7.sql" file in your sqlexercies directory on Ygritte and write implement each of the following exercises using one SQL statement.
