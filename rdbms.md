@@ -10,7 +10,7 @@ mysql -t -u student employees < /home/share/rdbms/wk6answers.sql
 vim /home/share/rdbms/wk6answers.sql
 ```
 
-##Exercises
+## Exercises
 <br>Create a "wk7.sql" file in your sqlexercies directory on Ygritte and write implement each of the following exercises using one SQL statement.
 
 <br>1 . List the first/last name and gender of all the department managers and include the department name in this list (requires 2 table joins).
