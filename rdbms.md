@@ -4,13 +4,18 @@
 <br>2 . [Dates](http://www.w3schools.com/sql/sql_dates.asp)
 <br>3 . [Functions](http://www.w3schools.com/sql/sql_functions.asp)
 <br>4 . [Inner Join Alternative](https://gist.github.com/GedMullen/da443d8e6956046c02b2)
-<br>5 . Week 6 Answers:
+<br>5 . [Joins Video](https://www.youtube.com/watch?v=I6f42xiPwzs)
+<!--
+<br>6 . Week 6 Answers:
 ```
 mysql -t -u student employees < /home/share/rdbms/wk6answers.sql
 vim /home/share/rdbms/wk6answers.sql
 ```
-<br>6 . [Joins Video](https://www.youtube.com/watch?v=I6f42xiPwzs)
+-->
+## Exercises 
+<br>1 . Continue with Week 6 exercises.
 
+<!--
 ## Exercises
 <br>Create a "wk7.sql" file in your sqlexercies directory on Ygritte and write implement each of the following exercises using one SQL statement.
 
@@ -27,6 +32,7 @@ vim /home/share/rdbms/wk6answers.sql
 <br>11 . How many people have the least common title on 1.1.1990?
 <br>12 . Which department has the least number of females on 1.1.1990?
 <br>13 . Continue with solving the SQL challenges of your fellow students. 
+-->
 
 # Week 6 
 <br>1 . Week 5 Answers:
