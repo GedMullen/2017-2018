@@ -1,3 +1,32 @@
+# Week 7
+
+1 . [Aliases](http://www.w3schools.com/sql/sql_alias.asp)
+<br>2 . [Dates](http://www.w3schools.com/sql/sql_dates.asp)
+<br>3 . [Functions](http://www.w3schools.com/sql/sql_functions.asp)
+<br>4 . [Inner Join Alternative](https://gist.github.com/GedMullen/da443d8e6956046c02b2)
+<br>6 . Week 6 Answers:
+```
+mysql -t -u student employees < /home/share/rdbms/wk6answers.sql
+vim /home/share/rdbms/wk6answers.sql
+```
+
+##Exercises
+<br>Create a "wk7.sql" file in your sqlexercies directory on Ygritte and write implement each of the following exercises using one SQL statement.
+
+<br>1 . List the first/last name and gender of all the department managers and include the department name in this list (requires 2 table joins).
+<br>2 . List the first/last name of all employees that work in Sales (2 table joins required).
+<br>3 . Display the birth date and hire date of Berni Sanella in the format “21 January 2015”. Use appropriate column aliases so that the data is displayed in a meaningful way. 
+<br>4 . Use the DATEDIFF function to determine how long ago Berni Sanella was hired. 
+<br>5 . Use the DATEDIFF function to determine how old in years Berni Sanell is (divide by 365).
+<br>6 . How old was Berni when she was hired?
+<br>7 . Assume that the maximum to_date in the salaries table determines when an employee left the company. How old was Berni when she left the company?
+<br>8 . What is the name of the department that has the most employees on 1.1.1990?
+<br>9 . What is the name of the manager that has the least employees on 1.1.1990?
+<br>10 . What is the most common employee title in the company on 1.1.1990?
+<br>11 . How many people have the least common title on 1.1.1990?
+<br>12 . Which department has the least number of females on 1.1.1990?
+<br>13 . Continue with solving the SQL challenges of your fellow students. 
+
 # Week 6 
 <br>1 . Week 5 Answers:
 ```
