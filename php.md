@@ -1,3 +1,18 @@
+# Week 6
+
+<br> 1 . Running CRUD tutorial on Ygritte:
+```bash
+cp -r /home/share/phpcrud/tutorial/crud/* .
+# You will need to modify customers.sql with your database name 
+# You can use sed to do this:
+sed 's/!yourdbname/bob11/g' customers.sql > mycustomers.sql 
+mysql -t -u student < mycustomers.sql
+# Run a PHP server
+php -S localhost:8666
+firefox localhost:8666
+```
+
+
 # Week 5 & 6
 <br> 1 . [PHP CRUD Tutorial](https://www.startutorial.com/articles/view/php-crud-tutorial-part-1)
 <br> 2 . Bootstrap files:
