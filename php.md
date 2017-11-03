@@ -7,6 +7,7 @@ cp -r /home/share/phpcrud/tutorial/crud/* .
 # You can use sed to do this:
 sed 's/!yourdbname/bob11/g' customers.sql > mycustomers.sql 
 mysql -t -u student < mycustomers.sql
+# Modify database.php with your database name
 # Run a PHP server
 php -S localhost:8666
 firefox localhost:8666
