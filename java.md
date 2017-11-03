@@ -1,3 +1,37 @@
+# Week 8
+
+<br> 1 . [KitBuildIt Class Diagram](https://drive.google.com/file/d/0B-CFaefA1v4RVU9OYnVUejk3c1U/view?usp=sharing)
+<br> 2 . [Model View Controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+<br> 3 . [Translating UML to Java](https://drive.google.com/open?id=0B-CFaefA1v4RS1JYYjRiLWlvZGs)
+<!--
+```
+cp /home/share/java/kitbuildit/wk20mon/* ~/workspace/wk20mon/src
+``` 
+-->
+
+## Exercises 
+<br>1 . Create a project in Eclipse called "kitbuildit" and implement the domain classes in the class diagram above.
+<br>2 . Populate 3 Masonry House instances and 3 Timber House instances. Write test code by outputting the contents of the objects.
+<br>3 . Populate 2 instances of a a Customer. Test your code by overriding the toString() method on the Customer Class and outputting the contents of the objects.
+<br>4 . Create a login prompt for username and password. If the user logs in with "admin" and "password" then display the following menu options:
+<br>
+<br>a) Add Customer
+<br>b) List All Customers
+<br>c) Add House Details
+<br>d) Edit House Details 
+<br>e) List All Houses
+<br>f) Record A Quote
+<br>g) Edit A Quote
+<br>h) List Quotes
+<br>
+<br>If the user logs in as a customer then check the username and password corresponds to one of the customer objects you created and output the menu below otherwise display "Invalid Login" and prompt the user again. This will require you to update your Customer class to contain a username and password.
+<br>
+<br>a) Edit Profile
+<br>b) Search For A House
+<br>
+
+<br>5 . Implement the "Add Customer" menu option. Prompt the user for all the information required to create a Customer object then check that it works by logging in as that customer.
+
 # Week 7
 1 . [Sequence Diagrams Tutorial](http://www.agilemodeling.com/artifacts/sequenceDiagram.htm)
 <br>2 . [Sequence Diagrams Drawing Tool](https://www.websequencediagrams.com)
