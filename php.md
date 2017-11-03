@@ -13,6 +13,9 @@ firefox localhost:8666
 ```
 <br> 2 . [Learning sed](https://linuxconfig.org/learning-linux-commands-sed)
 
+## Exercises
+<br>1 . Continue with Week 6 Exercises
+
 # Week 5 & 6
 <br> 1 . [PHP CRUD Tutorial](https://www.startutorial.com/articles/view/php-crud-tutorial-part-1)
 <br> 2 . Bootstrap files:
@@ -24,7 +27,7 @@ cp -r /home/share/bootstrap/* .
 cp /home/share/phpcrud/addbets/betged.sql .
 ```
 
-## Excercises 
+## Exercises 
 <br> 1 . Complete the [PHP CRUD Tutorial](https://www.startutorial.com/articles/view/php-crud-tutorial-part-1) and install and run it on Ygritte. 
 <br> 2 . Using the betged.sql script you created in Week 3 you are required to create a "Bet Ged" web application. Implement the following screens:
 <br> (a) [Create Customer](https://drive.google.com/open?id=0B-CFaefA1v4RVXV4eVlKSEhySTA)
