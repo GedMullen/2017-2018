@@ -1,4 +1,4 @@
-# Week 6
+# Week 7
 
 <br> 1 . Running CRUD tutorial on Ygritte:
 ```bash
