@@ -11,7 +11,7 @@ mysql -t -u student < mycustomers.sql
 php -S localhost:8666
 firefox localhost:8666
 ```
-
+<br> 2 . [Learning sed](https://linuxconfig.org/learning-linux-commands-sed)
 
 # Week 5 & 6
 <br> 1 . [PHP CRUD Tutorial](https://www.startutorial.com/articles/view/php-crud-tutorial-part-1)
