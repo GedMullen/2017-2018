@@ -3,11 +3,9 @@
 <br> 1 . [KitBuildIt Class Diagram](https://drive.google.com/file/d/0B-CFaefA1v4RVU9OYnVUejk3c1U/view?usp=sharing)
 <br> 2 . [Model View Controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
 <br> 3 . [Translating UML to Java](https://drive.google.com/open?id=0B-CFaefA1v4RS1JYYjRiLWlvZGs)
-<!--
 ```
-cp /home/share/java/kitbuildit/wk20mon/* ~/workspace/wk20mon/src
+cp /home/share/java/kitbuildit/ex1/* ~/workspace/kit
 ``` 
--->
 
 ## Exercises 
 <br>1 . Create a project in Eclipse called "kitbuildit" and implement the domain classes in the class diagram above.
