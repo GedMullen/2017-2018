@@ -6,6 +6,7 @@
 mysql -t -u student employees < /home/share/rdbms/wk6answers.sql
 vim /home/share/rdbms/wk6answers.sql
 ```
+<br>3 . [SQL Injection Attack Video](https://www.youtube.com/watch?v=ciNHn38EyRc)
 
 ## Exercises
 <br>Create a "wk8.sql" file in your sqlexercies directory on Ygritte and write implement each of the following exercises using one SQL statement.
