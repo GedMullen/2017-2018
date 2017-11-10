@@ -13,7 +13,7 @@ php -S localhost:8???
 firefox localhost:8???
 ```
 <br>2 . [HTML Select Tag](https://www.w3schools.com/tags/tag_select.asp)
-
+<br>3 . [Error Logging](http://php.net/manual/en/function.error-log.php)
 # Week 7
 
 <br> 1 . Running CRUD tutorial on Ygritte:
