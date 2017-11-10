@@ -12,6 +12,7 @@ mysql -t -u student < betged.sql
 php -S localhost:8???
 firefox localhost:8???
 ```
+<br>2 . [HTML Select Tab](https://www.w3schools.com/tags/tag_select.asp)
 
 # Week 7
 
