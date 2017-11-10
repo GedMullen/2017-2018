@@ -1,3 +1,18 @@
+#Week 8
+
+<br>1 . Running Bet Ged:
+
+```bash
+mkdir betged
+cp -r /home/share/phpcrud/addbets/* betged
+cd betged
+# You will need to modify betged.sql and database.php with your database name 
+mysql -t -u student < betged.sql
+# Run a PHP server
+php -S localhost:8???
+firefox localhost:8???
+```
+
 # Week 7
 
 <br> 1 . Running CRUD tutorial on Ygritte:
@@ -9,8 +24,8 @@ sed 's/!yourdbname/bob11/g' customers.sql > mycustomers.sql
 mysql -t -u student < mycustomers.sql
 # Modify database.php with your database name
 # Run a PHP server
-php -S localhost:8666
-firefox localhost:8666
+php -S localhost:8???
+firefox localhost:8???
 ```
 <br> 2 . [Learning sed](https://linuxconfig.org/learning-linux-commands-sed)
 
