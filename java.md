@@ -5,6 +5,7 @@
 <br> 3 . [Translating UML to Java](https://drive.google.com/open?id=0B-CFaefA1v4RS1JYYjRiLWlvZGs)
 ```
 cp /home/share/java/kitbuildit/ex1/* ~/workspace/kit
+cp /home/share/java/kitbuildit/ex2-3/* ~/workspace/kit
 ``` 
 
 ## Exercises 
