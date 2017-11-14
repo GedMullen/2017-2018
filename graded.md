@@ -1,3 +1,12 @@
+# Week 9
+
+<br>1 . Computer Systems Fundamentals:
+```
+firefox http://compfunds.hnd-computing.info/
+```
+## Exercises
+<br>1 . In your groups create a file called wk9.txt and write single answer multiple choice questions on the topic provided.
+
 # Week 8
 
 <br>1 . Troubleshootng:
