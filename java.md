@@ -4,9 +4,9 @@
 <br> 2 . [Model View Controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
 <br> 3 . [Translating UML to Java](https://drive.google.com/open?id=0B-CFaefA1v4RS1JYYjRiLWlvZGs)
 ```
-cp /home/share/java/kitbuildit/ex1/* ~/workspace/kit/src
-cp /home/share/java/kitbuildit/ex2-3/* ~/workspace/kit/src
-cp /home/share/java/kitbuildit/ex4/* ~/workspace/kit/src
+cp /home/share/java/kitbuildit/ex1/*.java ~/workspace/kit/src
+cp /home/share/java/kitbuildit/ex2-3/*.java ~/workspace/kit/src
+cp /home/share/java/kitbuildit/ex4/*.java ~/workspace/kit/src
 ``` 
 
 ## Exercises 
