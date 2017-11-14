@@ -6,6 +6,7 @@
 ```
 cp /home/share/java/kitbuildit/ex1/* ~/workspace/kit/src
 cp /home/share/java/kitbuildit/ex2-3/* ~/workspace/kit/src
+cp /home/share/java/kitbuildit/ex4/* ~/workspace/kit/src
 ``` 
 
 ## Exercises 
