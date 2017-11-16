@@ -7,6 +7,7 @@
 cp /home/share/java/kitbuildit/ex1/*.java ~/workspace/kit/src
 cp /home/share/java/kitbuildit/ex2-3/*.java ~/workspace/kit/src
 cp /home/share/java/kitbuildit/ex4/*.java ~/workspace/kit/src
+cp /home/share/java/kitbuildit/ex5/*.java ~/workspace/kit/src
 ``` 
 
 ## Exercises 
