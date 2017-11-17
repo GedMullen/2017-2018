@@ -1,3 +1,10 @@
+# Week 9
+<br> 1 . [List Bets](https://drive.google.com/open?id=177-eVrNW-g68ysPJmnHVhyA6v4IKIcQZ) 
+
+## Exercises
+
+<br> Update Bet Ged to [List Bets](https://drive.google.com/open?id=177-eVrNW-g68ysPJmnHVhyA6v4IKIcQZ) for Customers.
+
 # Week 8
 
 <br>1 . Running Bet Ged:
