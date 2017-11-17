@@ -1,6 +1,9 @@
 # Week 9
 <br> 1 . [List Bets](https://drive.google.com/open?id=177-eVrNW-g68ysPJmnHVhyA6v4IKIcQZ) 
-
+<br> 2 . Resizing gedit
+```
+gedit -g 200x200+100+100
+```
 ## Exercises
 
 <br> Update Bet Ged to [List Bets](https://drive.google.com/open?id=177-eVrNW-g68ysPJmnHVhyA6v4IKIcQZ) for Customers.
