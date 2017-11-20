@@ -1,3 +1,14 @@
+# Week 10
+<br>1 . [KitBuildIt Class Diagram](https://drive.google.com/file/d/0B-CFaefA1v4RVU9OYnVUejk3c1U/view?usp=sharing)
+<br>2 . [Exceptions Tutorial](https://www.tutorialspoint.com/java/java_exceptions.htm)
+
+## KitBuildIt Exercises Continued
+<br>6 . Implement menu option - b) List All Customers
+<br>7 . Implement menu option - c) Add House Details
+<br>8 . Implement menu option - d) Edit House Details 
+<br>9 . Implement menu option - e) List All Houses
+<br>10 . Implement menu option - f) Record A Quote
+
 # Week 8 & 9
 
 <br> 1 . [KitBuildIt Class Diagram](https://drive.google.com/file/d/0B-CFaefA1v4RVU9OYnVUejk3c1U/view?usp=sharing)
