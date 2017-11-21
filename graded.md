@@ -1,3 +1,10 @@
+# Week 10
+
+<br>1 . [Introduction To Software Mindmap](https://drive.google.com/open?id=0B-CFaefA1v4RRDRiZjRDSVhMQk0)
+
+## Exercises
+<br>1 . In your groups create a file called wk10.txt and write single answer multiple choice questions on the mindmap above.
+
 # Week 9
 
 <br>1 . Computer Systems Fundamentals:
