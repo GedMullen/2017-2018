@@ -1,6 +1,13 @@
 # Week 10
 <br>1 . [KitBuildIt Class Diagram](https://drive.google.com/file/d/0B-CFaefA1v4RVU9OYnVUejk3c1U/view?usp=sharing)
 <br>2 . [Exceptions Tutorial](https://www.tutorialspoint.com/java/java_exceptions.htm)
+```
+cp /home/share/java/kitbuildit/ex6/*.java ~/workspace/kit/src
+cp /home/share/java/kitbuildit/ex7/*.java ~/workspace/kit/src
+cp /home/share/java/kitbuildit/ex8/*.java ~/workspace/kit/src
+cp /home/share/java/kitbuildit/ex9/*.java ~/workspace/kit/src
+cp /home/share/java/kitbuildit/ex10-12/*.java ~/workspace/kit/src
+``` 
 
 ## KitBuildIt Exercises Continued
 <br>6 . Implement menu option - b) List All Customers
