@@ -1,3 +1,29 @@
+# Week 10 & 11
+
+<br> 1 . [Creating Tables](http://www.w3schools.com/sql/sql_create_table.asp)
+<br> 2 . [Data Types](http://www.w3schools.com/sql/sql_datatypes.asp)
+<br> 3 . [Inserting Data](http://www.w3schools.com/sql/sql_insert.asp)
+<br> 4 . [Updating Data](https://www.w3schools.com/sql/sql_update.asp)
+<br> 5 . [Deleting Data](https://www.w3schools.com/sql/sql_delete.asp)
+<br> 6 . [MySQL Example Employee Database](https://dev.mysql.com/doc/employee/en/sakila-structure.html)
+<br> 7 . Creating a database on Ygritte:
+```sql
+DROP DATABASE IF EXISTS <yourusername>;
+CREATE DATABASE <yourusername>;
+USE <yourusername>;
+```
+<br> 8 . Useful commands to put at the end of your script to check that it is working correctly:
+```sql
+SHOW TABLES;
+DESCRIBE employees;
+SELECT * FROM employees LIMIT 10;
+```
+## Exercises
+<br>1 . Create a file in your sqlexercises folder called wk10.sql and write a script to create an "employees" database table with the same column names and data types as the employees table in the [MySQL Example Employee Database](https://dev.mysql.com/doc/employee/en/sakila-structure.html). Don't include any constraints such as primary keys at this stage. 
+<br>2 . Add insert statements to wk10.sql to add data to your table.
+<br>3 . Add select statements to wk10.sql to check that the data has been inserted correctly.
+<br>4 . Add update and delete statements.
+
 # Week 9
 <br>1 . [SQLi Hall Of Shame](http://codecurmudgeon.com/wp/sql-injection-hall-of-shame/)
 <br>2 . [SQL Injection](http://www.w3schools.com/sql/sql_injection.asp)
