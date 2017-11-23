@@ -2,7 +2,11 @@
 <br>1 . [KitBuildIt Class Diagram](https://drive.google.com/file/d/0B-CFaefA1v4RVU9OYnVUejk3c1U/view?usp=sharing)
 <br>2 . [Exceptions Tutorial](https://www.tutorialspoint.com/java/java_exceptions.htm)
 <br>3. [Java Dates And Times](http://www.tutorialspoint.com/java/java_date_time.htm)
-<br>4 . Resizing gedit
+<br>4 . Using spaces with Java Scanner 
+```java
+scanner.useDelimiter("\n");
+```
+<br>5 . Resizing gedit
 ```
 gedit -g 200x200+100+100
 ```
