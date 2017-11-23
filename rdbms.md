@@ -1,18 +1,23 @@
 # Week 10 & 11
 
-<br> 1 . [Creating Tables](http://www.w3schools.com/sql/sql_create_table.asp)
-<br> 2 . [Data Types](http://www.w3schools.com/sql/sql_datatypes.asp)
-<br> 3 . [Inserting Data](http://www.w3schools.com/sql/sql_insert.asp)
-<br> 4 . [Updating Data](https://www.w3schools.com/sql/sql_update.asp)
-<br> 5 . [Deleting Data](https://www.w3schools.com/sql/sql_delete.asp)
-<br> 6 . [MySQL Example Employee Database](https://dev.mysql.com/doc/employee/en/sakila-structure.html)
-<br> 7 . Creating a database on Ygritte:
+<br>1 . All Week 8 Answers:
+```
+mysql -t -u student employees < /home/share/rdbms/wk8answers.sql
+vim /home/share/rdbms/wk8answers.sql
+```
+<br> 2 . [Creating Tables](http://www.w3schools.com/sql/sql_create_table.asp)
+<br> 3 . [Data Types](http://www.w3schools.com/sql/sql_datatypes.asp)
+<br> 4 . [Inserting Data](http://www.w3schools.com/sql/sql_insert.asp)
+<br> 5 . [Updating Data](https://www.w3schools.com/sql/sql_update.asp)
+<br> 6 . [Deleting Data](https://www.w3schools.com/sql/sql_delete.asp)
+<br> 7 . [MySQL Example Employee Database](https://dev.mysql.com/doc/employee/en/sakila-structure.html)
+<br> 8 . Creating a database on Ygritte:
 ```sql
 DROP DATABASE IF EXISTS <yourusername>;
 CREATE DATABASE <yourusername>;
 USE <yourusername>;
 ```
-<br> 8 . Useful commands to put at the end of your script to check that it is working correctly:
+<br> 9 . Useful commands to put at the end of your script to check that it is working correctly:
 ```sql
 SHOW TABLES;
 DESCRIBE employees;
