@@ -1,4 +1,15 @@
 # Week 10
+
+<br>1 . [KitBuildIt Class Diagram](https://drive.google.com/file/d/0B-CFaefA1v4RVU9OYnVUejk3c1U/view?usp=sharing)
+
+## KitBuildIt Exercises Continued
+
+<br>11 . Implement menu option - g) Edit A Quote
+<br>12 . Implement menu option - h) List Quotes
+<br>13 . Implement menu option (Customer) - a) Edit Profile
+<br>14 . Implement menu option (Customer) - b) Search For A House
+<br>15 . Add exception handling to your code so that if the user enters a string where a number is expected then an appropriate message is displayed. 
+# Week 10
 <br>1 . [KitBuildIt Class Diagram](https://drive.google.com/file/d/0B-CFaefA1v4RVU9OYnVUejk3c1U/view?usp=sharing)
 <br>2 . [Exceptions Tutorial](https://www.tutorialspoint.com/java/java_exceptions.htm)
 <br>3. [Java Dates And Times](http://www.tutorialspoint.com/java/java_date_time.htm)
