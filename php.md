@@ -4,7 +4,7 @@
 <br>2 . Running Bet Ged (with Bets listed):
 
 ```bash
-cp -r /home/share/phpcrud/addbets/* .
+cp -r /home/share/phpcrud/showbets/* .
 # You will need to modify betged.sql and database.php with your database name 
 mysql -t -u student < betged.sql
 # Run a PHP server
