@@ -1,7 +1,8 @@
 # Week 10
 
 <br>1 . [List Bets](https://drive.google.com/open?id=177-eVrNW-g68ysPJmnHVhyA6v4IKIcQZ) 
-<br>2 . Running Bet Ged (with Bets listed):
+<br>2 . [Bootstrap themes](https://bootswatch.com/)
+<br>3 . Running Bet Ged (with Bets listed):
 
 ```bash
 cp -r /home/share/phpcrud/showbets/* .
