@@ -1,3 +1,18 @@
+# Week 10
+
+<br>1 . [List Bets](https://drive.google.com/open?id=177-eVrNW-g68ysPJmnHVhyA6v4IKIcQZ) 
+<br>2 . Running Bet Ged (with Bets listed):
+
+```bash
+cp -r /home/share/phpcrud/addbets/* .
+# You will need to modify betged.sql and database.php with your database name 
+mysql -t -u student < betged.sql
+# Run a PHP server
+php -S localhost:8???
+firefox localhost:8???
+```
+
+
 # Week 9
 <br> 1 . [List Bets](https://drive.google.com/open?id=177-eVrNW-g68ysPJmnHVhyA6v4IKIcQZ) 
 <br> 2 . Resizing gedit
