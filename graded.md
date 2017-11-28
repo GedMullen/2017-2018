@@ -1,3 +1,13 @@
+# Week 11
+
+<br>1 . [Introduction To Software Mindmap](https://drive.google.com/open?id=0B-CFaefA1v4RRDRiZjRDSVhMQk0)
+```
+firefox http://softdev.hnd-computing.info/
+```
+
+## Exercises
+<br>1 . In your groups create a file called wk11.txt and write single answer multiple choice questions on the mindmap above.
+
 # Week 10
 
 <br>1 . [Introduction To Software Mindmap](https://drive.google.com/open?id=0B-CFaefA1v4RRDRiZjRDSVhMQk0)
