@@ -1,7 +1,22 @@
+<!--
+# Week 12 
+
+<br>1 . [Test Driven Development](http://agiledata.org/essays/tdd.html)
+<br>2 . [JUnit 5](http://junit.org/junit5/)
+<br>3 . [Object Serialisation Tutorial](http://www.tutorialspoint.com/java/java_serialization.htm)
+<br>4 . [Java Interfaces](https://docs.oracle.com/javase/tutorial/java/concepts/interface.html)
+<br>5 . [Exceptions Tutorial](https://www.tutorialspoint.com/java/java_exceptions.htm)
+<br>6 . [Java Generics](https://docs.oracle.com/javase/tutorial/java/generics/types.html)
+-->
 # Week 11
 
 <br>1 . [KitBuildIt Class Diagram](https://drive.google.com/file/d/0B-CFaefA1v4RVU9OYnVUejk3c1U/view?usp=sharing)
-
+<br>2 . [Exceptions Tutorial](https://www.tutorialspoint.com/java/java_exceptions.htm)
+```
+cp /home/share/java/kitbuildit/ex13/*.java ~/workspace/kit/src
+cp /home/share/java/kitbuildit/ex14/*.java ~/workspace/kit/src
+cp /home/share/java/kitbuildit/ex15/*.java ~/workspace/kit/src
+```
 ## KitBuildIt Exercises Continued
 
 <br>11 . Implement menu option - g) Edit A Quote
