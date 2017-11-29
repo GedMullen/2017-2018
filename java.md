@@ -1,12 +1,22 @@
 <!--
 # Week 12 
 
-<br>1 . [Test Driven Development](http://agiledata.org/essays/tdd.html)
-<br>2 . [JUnit 5](http://junit.org/junit5/)
-<br>3 . [Object Serialisation Tutorial](http://www.tutorialspoint.com/java/java_serialization.htm)
-<br>4 . [Java Interfaces](https://docs.oracle.com/javase/tutorial/java/concepts/interface.html)
-<br>5 . [Exceptions Tutorial](https://www.tutorialspoint.com/java/java_exceptions.htm)
+<br>1 . [Object Serialisation Tutorial](http://www.tutorialspoint.com/java/java_serialization.htm)
+<br>2 . [Exceptions Tutorial](https://www.tutorialspoint.com/java/java_exceptions.htm)
+<br>3 . [Java Interfaces](https://docs.oracle.com/javase/tutorial/java/concepts/interface.html)
+<br>4 . [Test Driven Development](http://agiledata.org/essays/tdd.html)
+<br>5 . [JUnit](http://junit.org/junit4/)
 <br>6 . [Java Generics](https://docs.oracle.com/javase/tutorial/java/generics/types.html)
+
+## KitBuildIt Exercises Continued
+
+<br>16 . Use Object Serialisation to store the state of the objects in the application so that changes are persistent between application executions. 
+<br>17 . Implement an InvalidInputException and throw the exception when the user enters a string where a number is expected. Your application should handle the exception gracefully. 
+<br>18 . Create an Interface called Discountable with an abstract method called getPercentage(). Implement the interface in Timber.java. When a quote is recorded check if the House selected is an instance of Discountable and display a message to the user informing them that a discount is available and the percentage of the discount.  
+<br>19 . Create a JUnit test for user login.
+<br>20 . Create a JUnit test for menu option - b) List All Customers
+<br>21 . Create a JUnit test for menu option - f) Record a Quote
+
 -->
 # Week 11
 
