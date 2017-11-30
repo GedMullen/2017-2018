@@ -1,3 +1,23 @@
+#Week 11
+<br>1 . [NULL Values](http://www.w3schools.com/sql/sql_null_values.asp)
+
+## Group Exercise
+
+What would be the impact on the output of the queries you have create if null values were allowed in the following columns of the employees database (document your answers in a file called null.txt)? 
+
+<ul>
+<li>employees.emp_no
+<li>employees.birth_date
+<li>employees.hire_date
+<li>salaries.to_date
+<li>titles.to_date
+</ul>
+
+## Exercises
+<br>1 . Continue with the Week 10 exercises. Make sure you add UPDATE and DELETE statements to wk10.sql.
+<br>2 . Add WHERE cluases to your UPDATE and DELETE statements to only update specific rows.
+
+
 # Week 10 & 11
 
 <br>1 . All Week 8 Answers:
