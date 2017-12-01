@@ -11,7 +11,7 @@
 
 <br>16 . Use Object Serialisation to store the state of the objects in the application so that changes are persistent between application executions. 
 <br>17 . Implement an InvalidInputException and throw the exception when the user enters a string where a number is expected. Your application should handle the exception gracefully. 
-<br>18 . Create an Interface called Discountable with an abstract method called getPercentage(). Implement the interface in Timber.java. When a quote is recorded check if the House selected is an instance of Discountable and assign the discount to the quote. Display the discount when the "list customers" menu is selected.  
+<br>18 . Create an Interface called Discountable with an abstract method called getPercentage(). Implement the interface in Timber.java. When a quote is recorded check if the House selected is an instance of Discountable and assign the discount to the quote. Display the discount when the "b) List All Customers" menu option is selected.  
 <br>19 . Create a JUnit test for the following:
 <li>User login.
 <li>Check houses have been populated.
