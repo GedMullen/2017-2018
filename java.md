@@ -7,7 +7,10 @@
 <br>4 . [Test Driven Development](http://agiledata.org/essays/tdd.html)
 <br>5 . [JUnit](http://junit.org/junit4/)
 <br>6 . [Java Generics](https://docs.oracle.com/javase/tutorial/java/generics/types.html)
-
+```
+java -cp .:/home/share/java/kitbuildit/jars/* org.junit.runner.JUnitCore GlencaldyTest
+javac -cp .:/home/share/java/kitbuildit/jars/* *.java
+```
 ## KitBuildIt Exercises Continued
 
 <br>16 . Use Object Serialisation to store the state of the objects in the application so that changes are persistent between application executions. 
