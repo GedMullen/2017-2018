@@ -1,4 +1,3 @@
-<!--
 # Week 12 
 
 <br>1 . [Object Serialisation Tutorial](http://www.tutorialspoint.com/java/java_serialization.htm)
@@ -12,12 +11,12 @@
 
 <br>16 . Use Object Serialisation to store the state of the objects in the application so that changes are persistent between application executions. 
 <br>17 . Implement an InvalidInputException and throw the exception when the user enters a string where a number is expected. Your application should handle the exception gracefully. 
-<br>18 . Create an Interface called Discountable with an abstract method called getPercentage(). Implement the interface in Timber.java. When a quote is recorded check if the House selected is an instance of Discountable and display a message to the user informing them that a discount is available and the percentage of the discount.  
-<br>19 . Create a JUnit test for user login.
-<br>20 . Create a JUnit test for menu option - b) List All Customers
-<br>21 . Create a JUnit test for menu option - f) Record a Quote
+<br>18 . Create an Interface called Discountable with an abstract method called getPercentage(). Implement the interface in Timber.java. When a quote is recorded check if the House selected is an instance of Discountable and assign the discount to the quote. Display the discount when the "list customers" menu is selected.  
+<br>19 . Create a JUnit test for the following:
+<li>User login.
+<li>Check houses have been populated.
+<li>Record a Quote
 
--->
 # Week 11
 
 <br>1 . [KitBuildIt Class Diagram](https://drive.google.com/file/d/0B-CFaefA1v4RVU9OYnVUejk3c1U/view?usp=sharing)
