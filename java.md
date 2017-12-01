@@ -1,3 +1,4 @@
+<!--
 # Week 12 
 
 <br>1 . [Object Serialisation Tutorial](http://www.tutorialspoint.com/java/java_serialization.htm)
@@ -16,6 +17,7 @@
 <li>User login.
 <li>Check houses have been populated.
 <li>Record a Quote
+-->
 
 # Week 11
 
