@@ -19,8 +19,8 @@ java -cp .:/home/share/java/kitbuildit/jars/* org.junit.runner.JUnitCore KitBuil
 <br>18 . Create an Interface called Discountable with an abstract method called getPercentage(). Implement the interface in Timber.java. When a quote is recorded check if the House selected is an instance of Discountable and assign the discount to the quote. Display the discount when the "b) List All Customers" menu option is selected.  
 <br>19 . Create a JUnit test for the following:
 <li>User login.
-<li>Check houses have been populated.
-<li>Record a Quote
+<li>Check that House objects have been populated correctly.
+<li>Record a Quote.
 
 # Week 11
 
