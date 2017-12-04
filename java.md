@@ -1,15 +1,16 @@
-<!--
 # Week 12 
 
 <br>1 . [Object Serialisation Tutorial](http://www.tutorialspoint.com/java/java_serialization.htm)
 <br>2 . [Exceptions Tutorial](https://www.tutorialspoint.com/java/java_exceptions.htm)
 <br>3 . [Java Interfaces](https://docs.oracle.com/javase/tutorial/java/concepts/interface.html)
 <br>4 . [Test Driven Development](http://agiledata.org/essays/tdd.html)
-<br>5 . [JUnit](http://junit.org/junit4/)
+<br>5 . [JUnit on Tutorialspoint](https://www.tutorialspoint.com/junit/), [JUnit Documentation](http://junit.org/junit4/)
 <br>6 . [Java Generics](https://docs.oracle.com/javase/tutorial/java/generics/types.html)
+<br>7 . To create a JUnit test case on Eclipse use the following menu options: File->New->JUnit Test Case.
+<br>8 . JUnit via the command line:
 ```
-java -cp .:/home/share/java/kitbuildit/jars/* org.junit.runner.JUnitCore GlencaldyTest
 javac -cp .:/home/share/java/kitbuildit/jars/* *.java
+java -cp .:/home/share/java/kitbuildit/jars/* org.junit.runner.JUnitCore KitBuildItTest
 ```
 ## KitBuildIt Exercises Continued
 
@@ -20,7 +21,6 @@ javac -cp .:/home/share/java/kitbuildit/jars/* *.java
 <li>User login.
 <li>Check houses have been populated.
 <li>Record a Quote
--->
 
 # Week 11
 
