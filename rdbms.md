@@ -4,7 +4,6 @@
 <br> 3 . [Primary Keys](http://www.w3schools.com/sql/sql_primarykey.asp)
 <br> 4 . [Foreign Keys](http://www.w3schools.com/sql/sql_foreignkey.asp)
 <br> 5 . [Auto Increment](http://dev.mysql.com/doc/refman/5.7/en/example-auto-increment.html)
-<br> 6 . [NULL Values](http://www.w3schools.com/sql/sql_null_values.asp)
 
 ## Exercises
 <br>1 . Copy wk10.sql to wk12.sql. Add the "titles" and "salaries" tables in [MySQL Example Employee Database](https://dev.mysql.com/doc/employee/en/sakila-structure.html) to your script.
