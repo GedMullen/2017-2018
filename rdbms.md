@@ -1,3 +1,18 @@
+# Week 12 
+<br> 1 . [MySQL Example Employee Database](https://dev.mysql.com/doc/employee/en/sakila-structure.html)
+<br> 2 . ["Crows Foot" Quick Reference](https://docs.google.com/document/d/13g8ft7SfZx2bjcboiq_26PzOS3xFaWCfsHUqJkN5XA0/pub)
+<br> 3 . [Primary Keys](http://www.w3schools.com/sql/sql_primarykey.asp)
+<br> 4 . [Foreign Keys](http://www.w3schools.com/sql/sql_foreignkey.asp)
+<br> 5 . [Auto Increment](http://dev.mysql.com/doc/refman/5.7/en/example-auto-increment.html)
+<br> 6 . [NULL Values](http://www.w3schools.com/sql/sql_null_values.asp)
+
+## Exercises
+<br>1 . Copy wk10.sql to wk12.sql. Add the "titles" and "salaries" tables in [MySQL Example Employee Database](https://dev.mysql.com/doc/employee/en/sakila-structure.html) to your script.
+<br>2 . Add in the [Primary Key](http://www.w3schools.com/sql/sql_primarykey.asp) and [Foreign Keys](http://www.w3schools.com/sql/sql_foreignkey.asp) constraints.
+<br>3 . Add [Auto Increment](http://dev.mysql.com/doc/refman/5.7/en/example-auto-increment.html) to the emp_no key in the employees table.
+<br>4 . Insert data into your tables and write select statements to check your data.
+<br>5 . Continue to add the other tables (dept_manager etc) to your script.
+
 # Week 11
 
 <br>1 . [NULL Values](http://www.w3schools.com/sql/sql_null_values.asp)
