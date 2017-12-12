@@ -1,3 +1,12 @@
+# Week 13 
+<br>1 . CompTIA Six-Step Troubleshooting Methodology
+
+```
+firefox http://troubleshoot.hnd-computing.info/?page_id=62
+```
+## Exercise
+<br>Create an acronym for the CompTIA Six-Step Troubleshooting Methodology. PRIZE = £1million worth of GedCoin.
+
 # Week 12
 
 <br>1 . [Introduction To Software Mindmap](https://drive.google.com/open?id=0B-CFaefA1v4RRDRiZjRDSVhMQk0)
