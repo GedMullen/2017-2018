@@ -5,7 +5,7 @@
 firefox http://troubleshoot.hnd-computing.info/?page_id=62
 ```
 ## Exercise
-<br>Create an acronym for the CompTIA Six-Step Troubleshooting Methodology. PRIZE = £1million worth of GedCoin.
+<br>COMPETITION - Create an acronym for the CompTIA Six-Step Troubleshooting Methodology. PRIZE = £1million worth of GedCoin.
 
 # Week 12
 
