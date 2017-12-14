@@ -1,4 +1,4 @@
-# Week 12 
+# Week 12 & 13 
 <br> 1 . [MySQL Example Employee Database](https://dev.mysql.com/doc/employee/en/sakila-structure.html)
 <br> 2 . ["Crows Foot" Quick Reference](https://docs.google.com/document/d/13g8ft7SfZx2bjcboiq_26PzOS3xFaWCfsHUqJkN5XA0/pub)
 <br> 3 . [Primary Keys](http://www.w3schools.com/sql/sql_primarykey.asp)
@@ -11,6 +11,7 @@
 <br>3 . Add [Auto Increment](http://dev.mysql.com/doc/refman/5.7/en/example-auto-increment.html) to the emp_no key in the employees table.
 <br>4 . Insert data into your tables and write select statements to check your data.
 <br>5 . Continue to add the other tables (dept_manager etc) to your script.
+<br>6 . Run the exercises from earlier weeks to check that your database has been set up correctly.
 
 # Week 11
 
