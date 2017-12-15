@@ -4,7 +4,7 @@
 
 ## Exercises
 
-<br>1 . Add an "admin" user to your BetGed databased. Change index.php to a login screen. If the user logs in with the admin account then direct them to the customer list. If the user logs in using a normal user then direct them to the "Read" paged for that customer.  
+<br>1 . Add an "admin" user to your BetGed databased. Change index.php to a login screen. If the user logs in with the admin account then direct them to the customer list. If the user logs in using a normal user then direct them to the "Read" page for that customer.  
 
 # Week 10-12
 
