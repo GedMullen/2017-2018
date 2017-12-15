@@ -1,6 +1,10 @@
 # Week 13
 
-<br>1 . Complete the [PHP Login Exercises](https://docs.google.com/document/d/1DtnOoUNieZOVxIXimgvxUESsfXNqj9evYXAZfAbyRi0/pub)
+<br>1 . [PHP Login Tutorial](https://docs.google.com/document/d/1DtnOoUNieZOVxIXimgvxUESsfXNqj9evYXAZfAbyRi0/pub)
+
+## Exercises
+
+<br>1 . Add an "admin" user to your BetGed databased. Change index.php to a login screen. If the user logs in with the admin account then direct them to the customer list. If the user logs in using a normal user then direct them to the "Read" paged for that customer.  
 
 # Week 10-12
 
