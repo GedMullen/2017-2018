@@ -1,3 +1,8 @@
+# Week 14
+
+<br> 1 . [Week 12&13 Answers](https://gist.github.com/GedMullen/4ed09c5853e730a88e8e)
+<br> 2 . [Database Design Tutorial](https://www.tutorialspoint.com/dbms/)
+
 # Week 12 & 13 
 <br> 1 . [MySQL Example Employee Database](https://dev.mysql.com/doc/employee/en/sakila-structure.html)
 <br> 2 . ["Crows Foot" Quick Reference](https://docs.google.com/document/d/13g8ft7SfZx2bjcboiq_26PzOS3xFaWCfsHUqJkN5XA0/pub)
