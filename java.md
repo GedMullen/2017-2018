@@ -1,3 +1,4 @@
+<!--
 # Week 15
 <br>1 . [JSP Tutorial](https://www.tutorialspoint.com/jsp/)
 <br>2 . Swing Tutorial [Part 1](https://drive.google.com/open?id=1Q_7uhv0waPIm0Mu_qEriDExR8CqwPI4u), [Part 2](https://drive.google.com/open?id=1848k4eUnXAB-I2LxPTRJVl-_GgR40A88), [Part 3](https://drive.google.com/open?id=1OLtCnJWl_OLiQL82NaK0MiRrhn43FMDj) 
@@ -8,6 +9,7 @@
 <br> [App GUI](https://drive.google.com/open?id=1hngHGvmwRWqtjSB26CQN3MeFMmiW2cnM)
 <br> [ScanToSocial](https://drive.google.com/open?id=0B-CFaefA1v4RRDZJX3FUSmo2ZFE)
 <br> [Fife College Champions](http://www.kyocera.co.uk/index/news/news_detail.L3ByaW50ZXJfbXVsdGlmdW5jdGlvbmFscy9uZXdzLzIwMTcvZmlmZV9jb2xsZWdlX3dpbnM~.html)
+-->
 
 ## KitBuildIt Exercises Continued
 <br>20 . Create a GUI for KitBuildIt that presents a login screen to the user. If the admin acount is entered then display the list of customers to the admin user. If a standard user login is entered then provide individual user information plus a list of Houses. Also, allow the user to create a quote for a particular house. 
