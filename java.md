@@ -1,3 +1,4 @@
+<!--
 # Week 15
 <br>1 . [Java FX Tutorial](https://www.tutorialspoint.com/javafx/)
 <br>2 . [JSP Tutorial](https://www.tutorialspoint.com/jsp/)
@@ -18,7 +19,7 @@
 
 ## KitBuildIt Exercises Continued
 <br>20 . Create a GUI for KitBuildIt that presents a login screen to the user. If the admin acount is entered then display the list of customers to the admin user. If a standard user login is entered then provide individual user information plus a list of Houses. Also, allow the user to create a quote for a particular house. 
-
+-->
 # Week 12 
 
 <br>1 . [Object Serialisation Tutorial](http://www.tutorialspoint.com/java/java_serialization.htm)
