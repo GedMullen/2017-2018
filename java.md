@@ -3,15 +3,15 @@
 <br>2 . [JSP Tutorial](https://www.tutorialspoint.com/jsp/)
 <br>3 . Swing Tutorial [Part 1](https://drive.google.com/open?id=1Q_7uhv0waPIm0Mu_qEriDExR8CqwPI4u), [Part 2](https://drive.google.com/open?id=1848k4eUnXAB-I2LxPTRJVl-_GgR40A88), [Part 3](https://drive.google.com/open?id=1OLtCnJWl_OLiQL82NaK0MiRrhn43FMDj) 
 <br>4 . Other Java GUI options:
-<br>(a) . [AWT](https://en.wikipedia.org/wiki/Abstract_Window_Toolkit)
-<br>(b) . [SWT - IBM](https://en.wikipedia.org/wiki/Standard_Widget_Toolkit)
-<br>(c) . [JGoodies](http://www.jgoodies.com/)
-<br>(d) . [Apache Pivot](https://en.wikipedia.org/wiki/Apache_Pivot)
-<br>(e) . [Qt Jambi](https://en.wikipedia.org/wiki/Qt_Jambi)
-<br>5 . Java GUI Case Study - Kyocera 
+<br>(a) [AWT](https://en.wikipedia.org/wiki/Abstract_Window_Toolkit)
+<br>(b) [SWT - IBM](https://en.wikipedia.org/wiki/Standard_Widget_Toolkit)
+<br>(c) [JGoodies](http://www.jgoodies.com/)
+<br>(d) [Apache Pivot](https://en.wikipedia.org/wiki/Apache_Pivot)
+<br>(e) [Qt Jambi](https://en.wikipedia.org/wiki/Qt_Jambi)
+<br>5 . Java GUI (JSP) Case Study - Kyocera 
 <br>(a) [Multi Function Printer GUI](https://drive.google.com/open?id=1eIbbxI5YpUKGuU29nZ3YxUGJn-Qv5NZU)
-<br>(b) [App GUI 2](https://drive.google.com/open?id=1Y2pwgWjcU08cMMFL89vKO8RsI-yKj7lS)
 <br>(c) [App GUI 1](https://drive.google.com/open?id=1EycvN7G053FTvvrEoVzkZwHt-84LVgyD)
+<br>(b) [App GUI 2](https://drive.google.com/open?id=1Y2pwgWjcU08cMMFL89vKO8RsI-yKj7lS)
 <br>(d) [App GUI 3](https://drive.google.com/open?id=1hngHGvmwRWqtjSB26CQN3MeFMmiW2cnM)
 <br>(e) [ScanToSocial](https://drive.google.com/open?id=0B-CFaefA1v4RRDZJX3FUSmo2ZFE)
 <br>(f) [Fife College Champions](http://www.kyocera.co.uk/index/news/news_detail.L3ByaW50ZXJfbXVsdGlmdW5jdGlvbmFscy9uZXdzLzIwMTcvZmlmZV9jb2xsZWdlX3dpbnM~.html)
