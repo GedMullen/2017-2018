@@ -4,6 +4,7 @@
 echo 'alias deadlines="cat /home/share/assessments/rdbms/readme.txt | more";' >> .bashrc
 ```
 <br> 2 . [FileZilla](https://sourceforge.net/projects/filezilla/files/FileZilla_Client/)
+<br> 3 . [Data Dictionary Example](https://drive.google.com/open?id=1nVBDarU8adeovVxJidhaFhwTbi-kuZ8UgWZKYGg79u0)
 
 # Week 14
 
