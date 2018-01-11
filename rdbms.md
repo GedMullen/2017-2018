@@ -1,3 +1,9 @@
+# Week 15
+<br> 1 . Setting up the deadlines alias:
+```bash
+echo 'alias deadlines="cat /home/share/assessments/rdbms/readme.txt | more";' >> .bashrc
+```
+
 # Week 14
 
 <br> 1 . [Week 12&13 Answers](https://gist.github.com/GedMullen/4ed09c5853e730a88e8e)
