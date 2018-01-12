@@ -1,3 +1,16 @@
+# Week 15
+
+<br>1 . [Sessions Tutorial](http://www.w3schools.com/php/php_sessions.asp) 
+<br>2 . [Session Handing - php.net](http://php.net/manual/en/book.session.php)
+<br>3 . [User Registration And Login Example](http://www.codingcage.com/2015/01/user-registration-and-login-script-using-php-mysql.html)
+
+
+## Exercises
+
+<br>1 . In your BetGed application - stop the user from accessing the "customers.php" unless they are logged in as admin (see [Sessions Tutorial](http://www.w3schools.com/php/php_sessions.asp)).
+<br>2 . Stop the user from accessing the "read.php" page unless they have logged in as a normal user.
+
+
 # Week 13
 
 <br>1 . [PHP Login Tutorial](https://docs.google.com/document/d/1DtnOoUNieZOVxIXimgvxUESsfXNqj9evYXAZfAbyRi0/pub)
