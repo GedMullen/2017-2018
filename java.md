@@ -1,3 +1,14 @@
+# Week 16
+<br>1 . [UML Class Diagrams](https://drive.google.com/file/d/0B-CFaefA1v4RTmhRa2NEUHpFcXc/view?usp=docslist_api)
+<br>2 . [Interface Default Method](https://docs.oracle.com/javase/tutorial/java/IandI/defaultmethods.html)
+<br>3 . [Generics](https://www.javatpoint.com/java-arraylisti)
+<br>4 . [Exceptions](https://docs.oracle.com/javase/tutorial/essential/exceptions/)
+<br>5 . [File I/0](https://www.tutorialspoint.com/java/java_files_io.htm)
+<br>6 . [Automated V Manual Testing](https://www.apicasystems.com/blog/automated-testing-vs-manual-testing/)
+<br>7 . [Swing Components and Containers](http://javadevwannabe.blogspot.co.uk/2012/02/swing-components-and-containers.html)
+<br>8 . [Swing Pluggable Look And Feel](https://en.wikipedia.org/wiki/Pluggable_look_and_feel)
+
+
 # Week 15
 <br>1 . [Java FX Tutorial](https://www.tutorialspoint.com/javafx/)
 <br>2 . [JSP Tutorial](https://www.tutorialspoint.com/jsp/)
