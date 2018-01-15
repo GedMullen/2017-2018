@@ -14,6 +14,9 @@
 <br>1 . [Java FX Tutorial](https://www.tutorialspoint.com/javafx/)
 <br>2 . [JSP Tutorial](https://www.tutorialspoint.com/jsp/)
 <br>3 . Swing Tutorial [Part 1](https://drive.google.com/open?id=1Q_7uhv0waPIm0Mu_qEriDExR8CqwPI4u), [Part 2](https://drive.google.com/open?id=1848k4eUnXAB-I2LxPTRJVl-_GgR40A88), [Part 3](https://drive.google.com/open?id=1OLtCnJWl_OLiQL82NaK0MiRrhn43FMDj) 
+<br>(a) . [Swing Components and Containers](http://javadevwannabe.blogspot.co.uk/2012/02/swing-components-and-containers.html)
+<br>(b) . [Swing Pluggable Look And Feel](https://en.wikipedia.org/wiki/Pluggable_look_and_feel)
+-->
 <br>4 . Other Java GUI options:
 <br>(a) [AWT](https://en.wikipedia.org/wiki/Abstract_Window_Toolkit)
 <br>(b) [SWT - IBM](https://en.wikipedia.org/wiki/Standard_Widget_Toolkit)
@@ -35,9 +38,10 @@
 
 <br>1 . [Object Serialisation Tutorial](http://www.tutorialspoint.com/java/java_serialization.htm)
 <br>2 . [Exceptions Tutorial](https://www.tutorialspoint.com/java/java_exceptions.htm)
-<br>3 . [Java Interfaces](https://docs.oracle.com/javase/tutorial/java/concepts/interface.html)
-<br>4 . [Test Driven Development](http://agiledata.org/essays/tdd.html)
-<br>5 . [JUnit on Tutorialspoint](https://www.tutorialspoint.com/junit/), [JUnit Documentation](http://junit.org/junit4/)
+<br>3 . [More Exceptions](https://docs.oracle.com/javase/tutorial/essential/exceptions/)
+<br>4 . [Java Interfaces](https://docs.oracle.com/javase/tutorial/java/concepts/interface.html)
+<br>5 . [Test Driven Development](http://agiledata.org/essays/tdd.html)
+<br>6 . [JUnit on Tutorialspoint](https://www.tutorialspoint.com/junit/), [JUnit Documentation](http://junit.org/junit4/)
 <br>6 . [Java Generics](https://docs.oracle.com/javase/tutorial/java/generics/types.html)
 <br>7 . To create a JUnit test case on Eclipse use the following menu options: File->New->JUnit Test Case.
 <br>8 . JUnit via the command line:
@@ -45,6 +49,7 @@
 javac -cp .:/home/share/java/kitbuildit/jars/* *.java
 java -cp .:/home/share/java/kitbuildit/jars/* org.junit.runner.JUnitCore KitBuildItTest
 ```
+<br>9 . [Automated V Manual Testing](https://www.apicasystems.com/blog/automated-testing-vs-manual-testing/)
 ## KitBuildIt Exercises Continued
 
 <br>16 . Use Object Serialisation to store the state of the objects in the application so that changes are persistent between application executions. 
@@ -229,9 +234,10 @@ cp /home/share/java/exercises/poly/ex4/*.java ~/workspace/examples/src
 <br>1 . [Objects and Classes Tutorial](http://www.tutorialspoint.com/java/java_object_classes.htm)
 <br>2 . [Inheritance Tutorial](https://www.tutorialspoint.com/java/java_inheritance.htm)
 <br>3 . [Overriding Tutorial](https://www.tutorialspoint.com/java/java_overriding.htm)
-<br>4 . [Encapsulation Tutorial](https://www.tutorialspoint.com/java/java_encapsulation.htm)
-<br>5 . [OOP Basics](https://www3.ntu.edu.sg/home/ehchua/programming/java/J3a_OOPBasics.html)
-<br>6 . Answer to Warmup Exercises 5-11:
+<br>4 . [Interface Default Method](https://docs.oracle.com/javase/tutorial/java/IandI/defaultmethods.html)
+<br>5 . [Encapsulation Tutorial](https://www.tutorialspoint.com/java/java_encapsulation.htm)
+<br>6 . [OOP Basics](https://www3.ntu.edu.sg/home/ehchua/programming/java/J3a_OOPBasics.html)
+<br>7 . Answer to Warmup Exercises 5-11:
 ```
 cp /home/share/java/exercises/warmup/ex5-11/*.java ~/workspace/examples/src
 ```
@@ -242,6 +248,8 @@ cp /home/share/java/exercises/warmup/ex5-11/*.java ~/workspace/examples/src
 ```
 cp /home/share/java/exercises/arraylist/*.java ~/workspace/examples/src
 ```
+<br>11 . [Generics](https://www.javatpoint.com/java-arraylisti)
+<br>12 . [File I/0](https://www.tutorialspoint.com/java/java_files_io.htm)
 <!-- inheritance video -->
 <!-- Using ArrayLists https://www.lynda.com/Java-tutorials/Using-ArrayLists/184457/374321-4.html -->
 
