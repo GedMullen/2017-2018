@@ -1,3 +1,9 @@
+# Week 16
+
+## Exercise
+
+Enrol on iLearn course 5838 and complete the multiple choice part of the example paper on iLearn.`
+
 # Week 15
 <br>1 . [ILearn Exam Prep](http://ilearn.fife.ac.uk/course/view.php?id=312)
 
