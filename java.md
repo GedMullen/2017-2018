@@ -248,7 +248,7 @@ cp /home/share/java/exercises/warmup/ex5-11/*.java ~/workspace/examples/src
 ```
 cp /home/share/java/exercises/arraylist/*.java ~/workspace/examples/src
 ```
-<br>11 . [Generics](https://www.javatpoint.com/java-arraylisti)
+<br>11 . [Generics](https://www.javatpoint.com/java-arraylist)
 <br>12 . [File I/0](https://www.tutorialspoint.com/java/java_files_io.htm)
 <!-- inheritance video -->
 <!-- Using ArrayLists https://www.lynda.com/Java-tutorials/Using-ArrayLists/184457/374321-4.html -->
