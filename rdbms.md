@@ -1,3 +1,13 @@
+# Week 16
+
+<br>1 . Use the following set up commands to complete the remaining SQL tasks:
+```
+mkdir sqlass
+cd sqlass
+cp /home/share/assessments/rdbms/orderdata.sql .
+cp /home/share/assessments/rdbms/tabledata.sql .
+```
+
 # Week 15
 <br> 1 . Setting up the deadlines alias:
 ```bash
@@ -57,7 +67,7 @@ vim /home/share/rdbms/wk8answers.sql
 <br> 2 . [Creating Tables](http://www.w3schools.com/sql/sql_create_table.asp)
 <br> 3 . [Data Types](http://www.w3schools.com/sql/sql_datatypes.asp)
 <br> 4 . [Inserting Data](http://www.w3schools.com/sql/sql_insert.asp)
-<br> 5 . [Updating Data](https://www.w3schools.com/sql/sql_update.asp)
+<br> 6 . [Updating Data](https://www.w3schools.com/sql/sql_update.asp)
 <br> 6 . [Deleting Data](https://www.w3schools.com/sql/sql_delete.asp)
 <br> 7 . [MySQL Example Employee Database](https://dev.mysql.com/doc/employee/en/sakila-structure.html)
 <br> 8 . Creating a database on Ygritte:
