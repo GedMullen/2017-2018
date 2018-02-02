@@ -1,6 +1,6 @@
 # Week 2.1
 
-**Prelim Date: Friday 2.3.18 @ 12:30-15:30 in BS50.**
+**Prelim Date: Friday 2.3.18 @ 12:30-15:30 in BF44.**
 
 # Week 16
 
