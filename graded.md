@@ -1,3 +1,7 @@
+# Week 2.1
+
+*Prelim Date Time: Friday 2.3.18 @ 12:30.*
+
 # Week 16
 
 ## Exercise
