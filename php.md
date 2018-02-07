@@ -1,3 +1,15 @@
+# Week 2.1
+
+```bash
+cp -r /home/share/phpcrud/betswithsession/* .
+# You will need to modify betged.sql and database.php with your database name 
+mysql -t -u student < betged.sql
+# Run a PHP server
+php -S localhost:8???
+firefox localhost:8???
+```
+
+
 # Week 17
 
 ```bash
