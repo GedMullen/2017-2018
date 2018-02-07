@@ -2,7 +2,8 @@
 
 <br>1 . [Unit Descriptor](http://www.sqa.org.uk/sqa/files/hn/H17R35.pdf)
 <br>2 . [Native v Web Apps](https://docs.google.com/presentation/d/1xQCI7S7X_4rVDZWJ8ZWuXp1oHm4957Jv9leLL_kAvOg/edit?usp=docslist_api)
-<br>3 . [Mobile Apps Overview](https://socialwebbiz.files.wordpress.com/2011/09/appsillustrated_nativewebhybrid.jpg)
+<br>3 . [Hybrid Apps](https://developer.telerik.com/featured/what-is-a-hybrid-mobile-app/)
+<br>4 . [Mobile Apps Overview](https://socialwebbiz.files.wordpress.com/2011/09/appsillustrated_nativewebhybrid.jpg)
 
 ## Exercise 
 
