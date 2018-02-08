@@ -6,7 +6,7 @@
 
 ## Exercises
 <br> 1 . If you haven't already got one, create a Google account so that you can share your work with your team.
-<br> 2 . In your teams, you are required to produce a 10 minute presentation on one of the topics below:
+<br> 2 . In your teams, you are required to produce a 10 minute presentation on (using Google Slides) one of the topics below:
 <ul>
 <li>An introduction to MUD servers including their history.
 <li>The difference between modern graphical games and text based games (think book v film).
