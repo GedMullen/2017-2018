@@ -12,7 +12,7 @@
 <li>The difference between modern graphical games and text based games (think book v film).
 <li>What are the popular MUD genres and games available? List resources.
 <li>How to connect to MUD servers. What software is required?
-<ul>
+</ul>
 
 # Week 1 
 <br> 1 . [Unit Descriptor](https://www.sqa.org.uk/files/nu/H6S746.pdf)
