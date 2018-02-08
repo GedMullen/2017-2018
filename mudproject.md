@@ -1,3 +1,19 @@
+# Week 2
+
+<br> 1 . [MUD Servers](https://en.wikipedia.org/wiki/MUD)
+<br> 2 . [MUD Connect](http://www.mudconnect.com/)
+<br> 3 . [Google Drive](https://www.google.com/drive/)
+
+## Exercises
+<br> 1 . If you haven't already got one, create a Google account so that you can share your work with your team.
+<br> 2 . In your teams, you are required to produce a 10 minute presentation on one of the topics below:
+<ul>
+<li>An introduction to MUD servers including their history.
+<li>The difference between modern graphical games and text based games (think book v film).
+<li>What are the popular MUD genres and games available? List resources.
+<li>How to connect to MUD servers. What software is required?
+<ul>
+
 # Week 1 
 <br> 1 . [Unit Descriptor](https://www.sqa.org.uk/files/nu/H6S746.pdf)
 <br> 2 . [Corners Game](https://docs.google.com/document/d/1f8YCnRpKR5dgO-aP77ZXJg5SU6BWLMkiLsc99n1WZe4/pub)
