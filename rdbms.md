@@ -277,3 +277,5 @@ cat /home/share/misc/ygrittefaq.txt | more
 passwd
 ```
 <br>2 . Complete this tutorial: [Learning the Command Line on Codecademy](https://www.codecademy.com/learn/learn-the-command-line)
+
+[Cloud](https://docs.google.com/presentation/d/1zjOvPkzQX3q8U8KFRWZu3YmRsofRFmiJYuiJfEjhC-s/edit?usp=sharing)
