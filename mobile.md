@@ -1,3 +1,40 @@
+# Week 2
+<br>1 . [Mobile Phone OS Market Share](http://www.idc.com/prodserv/smartphone-os-market-share.jsp)
+<br>2 . [Apple v Android App Store](http://mobiledevices.about.com/od/additionalresources/a/Ios-App-Store-Vs-Google-Play-Store-For-App-Developers.htm)
+
+## Exercise
+
+<br>In your groups create a 10 minute presentation on the following:
+
+<br>Group 1 - The case for iPhone. 
+<ul>
+<li>Product strengths
+<li>Market share
+<li>The future
+</ul>
+
+<br>Group 2 - The case for Android.
+<ul>
+<li>Product strengths
+<li>Market share
+<li>The future
+</ul>
+
+<br>Group 3 - iTunes and iOS apps. 
+<ul>
+<li>Advantages
+<li>Revenues
+<li>App development costs
+</ul>
+
+<br>Group 4 - Google Play and Android apps.
+<ul>
+<li>Advantages
+<li>Revenues
+<li>App development costs
+</ul>
+
+
 # Week 1
 
 <br>1 . [Unit Descriptor](http://www.sqa.org.uk/sqa/files/hn/H17R35.pdf)
