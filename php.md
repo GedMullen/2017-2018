@@ -1,3 +1,7 @@
+# Week 2.2
+
+1 . [Tutorialspoint - JSP](https://www.tutorialspoint.com/jsp/)
+
 # Week 2.1
 
 ```bash
