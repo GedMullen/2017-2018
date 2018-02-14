@@ -1,6 +1,9 @@
 # Week 2.2
 
 1 . [Tutorialspoint - JSP](https://www.tutorialspoint.com/jsp/)
+```
+/home/share/java/studentjsp
+```
 
 # Week 2.1
 
