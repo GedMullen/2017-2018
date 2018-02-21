@@ -1,7 +1,7 @@
 # Week 3
 
+<br>1 . [Mobile V Desktop](https://www.smartinsights.com/mobile-marketing/mobile-marketing-analytics/mobile-marketing-statistics/)
 <br>1 . [Mobile App Technology Mindmap](https://drive.google.com/file/d/0B-CFaefA1v4RVnpDbmlQVDJVTWs/view?usp=docslist_api)
-<br>2 . [Networks](https://docs.google.com/presentation/d/1z2BuiiUoBmTc6jAY1RJUW9VuegsQAuZpS-YxiDsV9Ds/edit?usp=docslist_api)
 
 ## Exercise
 
