@@ -24,10 +24,6 @@ rlwrap telnet zombiemud.org 23
 
 <br>1 . In your groups decided on a genre for your game. Choose a MUD Server that matches your genre and play the game in your groups to gain experience of the look and feel of MUD Servers.
 
-
-
-
-
 # Week 2
 
 <br> 1 . [MUD Servers](https://en.wikipedia.org/wiki/MUD)
