@@ -6,10 +6,6 @@
 ```
 rlwrap telnet aardmud.org 23
 ```
-<br>Cyberpunk: 
-```
-rlwrap telnet sindome.org 5555
-```
 <br>Horror/Post-Apocalyptic
 ```
 rlwrap telnet hellmoo.org 7777
