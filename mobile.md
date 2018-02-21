@@ -1,3 +1,20 @@
+# Week 3
+
+<br>1 . [Mobile App Technology Mindmap](https://drive.google.com/file/d/0B-CFaefA1v4RVnpDbmlQVDJVTWs/view?usp=docslist_api)
+<br>2 . [Networks](https://docs.google.com/presentation/d/1z2BuiiUoBmTc6jAY1RJUW9VuegsQAuZpS-YxiDsV9Ds/edit?usp=docslist_api)
+
+## Exercise
+
+Create a short report describe the various networking technologies currently in use. Include the following:
+<ul>
+
+<li>A description of the drawbacks (lack of coverage, speed etc.) and how they can influence the design and functionality of an app
+<li>2G, 3G, 4G - Compare and contrast
+<li>The possible services on each
+<li>WiFi
+</ul>
+
+
 # Week 2
 <br>1 . [Mobile Phone OS Market Share](http://www.idc.com/prodserv/smartphone-os-market-share.jsp)
 <br>2 . [Apple v Android App Store](http://mobiledevices.about.com/od/additionalresources/a/Ios-App-Store-Vs-Google-Play-Store-For-App-Developers.htm)
