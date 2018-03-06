@@ -1,18 +1,11 @@
 # Week 2.5
 
-Cloud Security
-
-<!--
-(https://en.wikipedia.org/wiki/Cloud_computing_security)
--->
+[Cloud Security](https://en.wikipedia.org/wiki/Cloud_computing_security)
 
 ## Exercises
 
 <br> 1 . Groups - create a file on ygritte called cloudsecurity.txt and identify security issues with cloud computing. 
-<!--
-<br> 2 . For the security issues identified identified, list possible countermeasures and document them in cloudsecurity.txt.
-<br> 3 . Create a short report on cloud security issues using Google docs and share the report with me.
--->
+<br> 2 . Create a short report on cloud security issues using Google docs and share the report with me.
 # Week 16
 
 <br>1 . Use the following set up commands to complete the remaining SQL tasks:
