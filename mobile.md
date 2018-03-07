@@ -1,6 +1,8 @@
 # Week 5
 
-<br>1 . [Mobile App Technology Mindmap](https://drive.google.com/file/d/0B-CFaefA1v4RVnpDbmlQVDJVTWs/view?usp=docslist_api)
+<br>1 . [Android Studio Introduction](https://developer.android.com/studio/intro/index.html)
+<br>2 . [Security And Legislation](https://docs.google.com/presentation/d/19Hok8rf60JAQLhROpDj0E4vBtJSE2gR5d-WJrzKE-SI/edit?usp=docslist_api)
+<br>3 . [Mobile App Technology Mindmap](https://drive.google.com/file/d/0B-CFaefA1v4RVnpDbmlQVDJVTWs/view?usp=docslist_api)
 	
 # Exercise
 
