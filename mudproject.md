@@ -1,3 +1,13 @@
+# Week 5
+
+<br>1 . [Team Meeting Template](https://docs.google.com/document/d/1gZ2Di4d1mCK7T1vKb7FUWCmB27tcMr1BYoC6kMt6l20/edit?usp=sharing)
+<br>2 . [Brainstorming](https://www.youtube.com/watch?v=yAidvTKX6xM)
+
+## Exercises
+
+<br>1 . In your groups decided on a genre for your game. Choose a MUD Server that matches your genre (not Aardwolf) and play the game in your groups to gain experience of the look and feel of MUD Servers.
+<br>2 . Hold a team meeting to decide on the outline of your game. Write a 500 word introduction to your game. Share your team meeting minutes with introduction included with me using Google Docs.
+
 # Week 3
 
 <br> 1 . [MUD Connect](http://www.mudconnect.com/)
@@ -15,10 +25,6 @@ rlwrap telnet hellmoo.org 7777
 rlwrap telnet zombiemud.org 23
 ```
 <br>Cyberpunk - sindome.org
-
-## Exercises
-
-<br>1 . In your groups decided on a genre for your game. Choose a MUD Server that matches your genre and play the game in your groups to gain experience of the look and feel of MUD Servers.
 
 # Week 2
 
