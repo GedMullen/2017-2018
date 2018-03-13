@@ -1,3 +1,13 @@
+# Week 2.6
+*Cloud*
+<br>1 . [Apply for AWS Educate](https://aws.amazon.com/education/awseducate/apply/)
+<br>2 . [Virtualisation](https://www.youtube.com/watch?v=NmrJlWDG0yk)
+<br>3 . [Hypervisors](https://en.wikipedia.org/wiki/Hypervisor)
+
+## Exercise 
+
+Write a short report describing virtualisation including a description of Hypervisor types. Share your report with me when complete.
+
 # Week 2.5
 
 [Cloud Security](https://en.wikipedia.org/wiki/Cloud_computing_security)
