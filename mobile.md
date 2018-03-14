@@ -1,3 +1,9 @@
+# Week 6
+
+```
+cat /home/share/assessments/android/readme.txt | more
+```
+
 # Week 5
 
 <br>1 . [Android Studio Introduction](https://developer.android.com/studio/intro/index.html)
