@@ -1,3 +1,15 @@
+# Week 6
+
+<br>1 . Evennia
+```
+telnet localhost 4001
+```
+
+## Exercises
+
+<br>1 . In your groups create or use a Google Drive account to make a shareable folder for your work. Share the folder with me.
+
+
 # Week 5
 
 <br>1 . [Team Meeting Template](https://docs.google.com/document/d/1gZ2Di4d1mCK7T1vKb7FUWCmB27tcMr1BYoC6kMt6l20/edit?usp=sharing)
