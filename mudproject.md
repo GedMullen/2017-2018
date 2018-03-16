@@ -2,13 +2,15 @@
 
 <br>1 . Evennia
 ```
-telnet localhost 4001
+telnet localhost 4000
 ```
+<br>2 . [AsciiFlow](http://asciiflow.com/)
+
 
 ## Exercises
 
 <br>1 . In your groups create or use a Google Drive account to make a shareable folder for your work. Share the folder with me.
-
+<br>2 . Use [AsciiFlow](http://asciiflow.com/) to start designing your rooms. 
 
 # Week 5
 
