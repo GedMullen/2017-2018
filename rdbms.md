@@ -307,3 +307,4 @@ passwd
 
 [Cloud](https://docs.google.com/presentation/d/1zjOvPkzQX3q8U8KFRWZu3YmRsofRFmiJYuiJfEjhC-s/edit?usp=sharing)
 [cloud2](https://docs.google.com/presentation/d/1BIjPf0fgDv2TU09hK6RQEVbtSlLxssifeCgHVMbeStQ/edit?usp=sharing)
+https://drive.google.com/file/d/0ByEiH-a9LjwAVll2Q2RWRXVSNlVlXzNrSlFXMnZianZ0cWpN/view?usp=sharing
