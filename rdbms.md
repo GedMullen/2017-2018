@@ -1,3 +1,12 @@
+# Week 2.8
+*Cloud*
+<br>1 . [Cloud Components](http://techaddas.blogspot.co.uk/2013/05/basic-components-of-cloud-computing.html)
+
+## Exercise
+
+Write a short report describing the components that are used in cloud computing. Share your report with me when complete.
+
+
 # Week 2.6
 *Cloud*
 <br>1 . [Apply for AWS Educate](https://aws.amazon.com/education/awseducate/apply/)
