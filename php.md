@@ -3,9 +3,11 @@
 [Web Development: Advanced Web Scripting Concepts - Unit Descriptor](https://www.sqa.org.uk/files/hn/HL9W35.pdf)
 [JavaScript HTML DOM](https://www.w3schools.com/js/js_htmldom.asp)]
 
+<!--
 ## Excercises
 
 Complete the following [tutorial and exercises](https://drive.google.com/file/d/1zsYqZdkLDncrZmyMprgEojoupqDqSFVj/view?usp=sharing)
+-->
 
 # Week 2.5
 
