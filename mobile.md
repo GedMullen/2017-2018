@@ -1,3 +1,9 @@
+# Week 7
+
+# Exercise 
+
+Create and Android app that has two image buttons. When the user selects a button the app should render another activity that contains some text. 
+
 # Week 6
 
 ```
