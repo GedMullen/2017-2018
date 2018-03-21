@@ -1,7 +1,7 @@
 # Week 2.6
 
-[Web Development: Advanced Web Scripting Concepts - Unit Descriptor](https://www.sqa.org.uk/files/hn/HL9W35.pdf)
-[JavaScript HTML DOM](https://www.w3schools.com/js/js_htmldom.asp)]
+<br>1 . [Web Development: Advanced Web Scripting Concepts - Unit Descriptor](https://www.sqa.org.uk/files/hn/HL9W35.pdf)
+<br>2 . [JavaScript HTML DOM](https://www.w3schools.com/js/js_htmldom.asp)]
 
 <!--
 ## Excercises
