@@ -1,3 +1,14 @@
+# Week 7
+
+<br>1 . Assessmeent Brief:
+```
+firefox /home/share/assessments/mudproject/brief.pdf
+```
+
+## Exercise
+<br>Read the brief and continue the design of your game making sure that it comprises of the elements listed in the brief. Create minutes for your team meeting and include them in your shared folder.
+
+
 # Week 6
 
 <br>1 . Evennia
