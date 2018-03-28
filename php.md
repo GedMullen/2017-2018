@@ -1,3 +1,8 @@
+# Week 2.7
+
+<br>1 . [AJAX Introduction](https://www.w3schools.com/xml/ajax_intro.asp)
+<br>2 . [AJAX Tutorialspoint](https://www.tutorialspoint.com/ajax/index.htm)
+
 # Week 2.6
 
 <br>1 . [Web Development: Advanced Web Scripting Concepts - Unit Descriptor](https://www.sqa.org.uk/files/hn/HL9W35.pdf)

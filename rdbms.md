@@ -1,3 +1,8 @@
+# Week 2.8
+*Cloud*
+# Week 2.8
+
+
 # Week 2.7
 *Cloud*
 <br>1 . [Cloud Components](http://techaddas.blogspot.co.uk/2013/05/basic-components-of-cloud-computing.html)
