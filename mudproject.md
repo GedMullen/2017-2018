@@ -1,3 +1,11 @@
+# Week 8
+
+<br>1 . [State Diagrams](https://www.lucidchart.com/pages/uml-state-machine-diagram)
+
+## Exercise
+
+Create the state transition diagram for the puzzle room in your game. Include this diagram in your game design. Create minutes for your team meeting and include them in your shared folder. 
+
 # Week 7
 
 <br>1 . Assessmeent Brief:
