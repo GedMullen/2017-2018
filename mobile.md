@@ -1,3 +1,18 @@
+# Week 9
+
+<br>1 . [UI Design For Mobile Devices](https://drive.google.com/file/d/0B-CFaefA1v4RQXl2Q1A5M3hCRG8/view?usp=docslist_api)
+<br>2 . [Designing Mobile Apps](https://drive.google.com/file/d/0B-CFaefA1v4RTU1pZWVUN1VodEE/view?usp=docslist_api)
+<br>3 . [Typograhy](http://tympanus.net/codrops/2012/11/12/mobile-design-typography-is-vitally-important-and-challenging/)
+<br>4 . [Mobile Design Typograhy](http://designmodo.com/mobile-design-typography/)
+<br>5 . [Colour Psychology For Mobile Apps](http://www.neobytesolutions.com/color-psychology-for-mobile-apps/)
+<br>6 . [Themes Tutorial](http://www.noupe.com/development/a-deeper-dive-into-jquery-mobile-themes-75416.html)
+<br>7 . [Example App Designs](http://www.1stwebdesigner.com/mobile-apps-designs/)
+<br>8 . [Android Splash Screens](https://www.bignerdranch.com/blog/splash-screens-the-right-way/)
+<br>9 . [App Tutorial](https://www.youtube.com/watch?v=n21mXO1ASJM)
+<br>10. [Android Layouts](https://developer.android.com/guide/topics/ui/declaring-layout.html)
+<br>11. [Signing Your App](https://developer.android.com/studio/publish/app-signing.html#release-mode)
+
+
 # Week 7
 
 # Exercise 
