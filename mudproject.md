@@ -1,3 +1,9 @@
+# Week 9
+
+<br>1 . [Evennia Building Tutorial](https://github.com/evennia/evennia/wiki/Building-Quickstart)
+<br>2 . [Startship Scrtipt](https://gist.github.com/GedMullen/e61b7c37a6d4677cb10fbff5fe5eefc3)
+<br>3 . [Tutorial World](https://github.com/evennia/evennia/blob/master/evennia/contrib/tutorial_world/build.ev)
+
 # Week 8
 
 <br>1 . [State Diagrams](https://www.lucidchart.com/pages/uml-state-machine-diagram)
