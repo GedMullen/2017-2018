@@ -7,7 +7,6 @@
 ```
 firefox /home/share/assessments/rdbms/acme.pdf
 ```
-id cols and select data types https://m.youtube.com/watch?v=rPDtXErt_rM
 ## Exercises
 
 <br>1 . Complete the following [conceptual ERM exercises](https://docs.google.com/document/d/1Bb0M0Q-8o-zHqi57ZejlbIcNXlG1pIg7sde5DbnCD0U/edit?usp=sharing)
