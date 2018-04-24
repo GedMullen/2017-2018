@@ -1,6 +1,17 @@
-# Week 2.8
-*Cloud*
-# Week 2.8
+# Week 2.10
+1 . [Crows Feet Notation](https://docs.google.com/document/d/13g8ft7SfZx2bjcboiq_26PzOS3xFaWCfsHUqJkN5XA0/pub)
+<br>2 . [Introduction To ERM](https://drive.google.com/open?id=0B-CFaefA1v4RZkpXSURLT1ZnSm8)
+<br>3 . [Database Design Tutorial](http://en.tekstenuitleg.net/articles/software/database-design-tutorial/intro.html)
+<br>4 . [Example ERDs](http://databaseanswers.org/data_models/index.htm)
+<br>5 . LO2 Assessment:
+```
+firefox /home/share/assessments/rdbms/acme.pdf
+```
+<br>5 . [Introduction To Database Modelling](https://m.youtube.com/watch?v=rBCXhbA3hPg)
+id cols and select data types https://m.youtube.com/watch?v=rPDtXErt_rM
+## Exercises
+
+<br>1 . Complete the following [conceptual ERM exercises](https://docs.google.com/document/d/1Bb0M0Q-8o-zHqi57ZejlbIcNXlG1pIg7sde5DbnCD0U/edit?usp=sharing)
 
 
 # Week 2.7
