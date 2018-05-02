@@ -1,3 +1,34 @@
+<!--
+# Week 12 
+
+<br>[Evaluation Template](https://docs.google.com/document/d/1JA9cJbobSkFS8sB6aXWf1ugeC_qDuFplMOuec5sPT1w/edit?usp=sharing)
+
+## Evaluation Submission
+
+<br> Share your evaluation submission with me via google drive.
+readme file with results
+
+-->
+
+# Week 11
+
+<br>1 . [Project Specification Template](https://docs.google.com/document/d/19goR0x6CPInKZDLJRzrMTJ_wMFnOCVLNawv3onI8aqs/edit?usp=sharing)
+<br>2 . [Gannt Chart](https://en.wikipedia.org/wiki/Gantt_chart)
+<br>3 . [Testing Template](https://docs.google.com/document/d/1owc2-KuMIIRN6KjLjABdUbiR1r5plquf9IKbQbaAUGs/edit?usp=sharing)
+<br>4 . [Testing Strategies](http://softwaretestingfundamentals.com/differences-between-black-box-testing-and-white-box-testing/)
+
+## Assessment Checklist - Your shared folder must include the following:
+
+<br>1 . Team meeting minutes.
+<br>2 . Project specification.
+<br>3 . Project plan (Gannt Chart)
+<br>4 . Test results with Test Strategy.
+<br>5 . Game design documentation including game description and map. 
+<br>6 . State Transition Diagram for puzzle room. 
+<br>7 . Build script for prototype. 
+<br>8 . Project presentation (Google Slides) - to be delivered in Week 15.
+
+
 # Week 9
 
 <br>1 . [Evennia Building Tutorial](https://github.com/evennia/evennia/wiki/Building-Quickstart)
