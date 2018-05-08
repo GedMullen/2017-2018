@@ -1,8 +1,8 @@
 # Week 2.12
 
 1 . [Resolving Many-To-Many Relationships](https://drive.google.com/open?id=1kpIthRghqHO-vStDC3TZYGqiQxMCl6JstgNUbMPVoeY)
-2 . [Business Rules](https://en.wikipedia.org/wiki/Business_rule)
-3 . [Types of Rules](http://www.brcommunity.com/articles.php?id=b525)
+<br>2 . [Business Rules](https://en.wikipedia.org/wiki/Business_rule)
+<br>3 . [Types of Rules](http://www.brcommunity.com/articles.php?id=b525)
 
 # Week 2.11
 
