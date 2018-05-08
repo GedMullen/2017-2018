@@ -1,3 +1,8 @@
+# Week 2.12
+
+1 . [Resolving Many-To-Many Relationships](https://drive.google.com/open?id=1kpIthRghqHO-vStDC3TZYGqiQxMCl6JstgNUbMPVoeY)
+2 . [Business Rules](https://en.wikipedia.org/wiki/Business_rule)
+
 # Week 2.11
 
 1 . [Chess Club](https://drive.google.com/open?id=0B-CFaefA1v4RTFRQUV90eUhsNEk)
