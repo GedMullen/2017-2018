@@ -1,4 +1,3 @@
-<!--
 # Week 12 
 
 <br>[Evaluation Template](https://docs.google.com/document/d/1JA9cJbobSkFS8sB6aXWf1ugeC_qDuFplMOuec5sPT1w/edit?usp=sharing)
@@ -6,9 +5,7 @@
 ## Evaluation Submission
 
 <br> Share your evaluation submission with me via google drive.
-readme file with results
 
--->
 
 # Week 11
 
