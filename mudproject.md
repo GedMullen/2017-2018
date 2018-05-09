@@ -1,6 +1,10 @@
 # Week 12 
 
 <br>[Evaluation Template](https://docs.google.com/document/d/1JA9cJbobSkFS8sB6aXWf1ugeC_qDuFplMOuec5sPT1w/edit?usp=sharing)
+<br>Results:
+```
+cat /home/share/assessments/mudproject/marking.txt
+```
 
 ## Evaluation Submission
 
