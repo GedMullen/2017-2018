@@ -1,3 +1,16 @@
+# Week 2.13
+
+1 . [Normalisation](http://www.sqa.org.uk/e-learning/MDBS01CD/page_20.htm)
+<br>2 . [Normalisation Guide 2](http://www.quepublishing.com/articles/article.aspx?p=27785)
+<br>3 . [Normalisation Guide 3](http://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
+
+## Exercises
+
+1 . Study the following [example](http://www.sqa.org.uk/e-learning/MDBS01CD/page_26.htm).
+<br>2 . SQA Normalisation [Question 1](http://www.sqa.org.uk/e-learning/MDBS01CD/page_35.htm)
+<br>3 . SQA Normalisation [Question 2](http://www.sqa.org.uk/e-learning/MDBS01CD/page_36.htm)
+<br>4 . [More Normalisation Questions (with answers)](https://cs.senecac.on.ca/~dbs201/pages/Normalization_Practice.htm)
+
 # Week 2.12
 
 1 . [Resolving Many-To-Many Relationships](https://drive.google.com/open?id=1kpIthRghqHO-vStDC3TZYGqiQxMCl6JstgNUbMPVoeY)
