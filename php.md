@@ -1,3 +1,12 @@
+# Week 2.14
+
+<br>1 . [HTML DOM](https://www.w3.org/TR/DOM-Level-2-Core/introduction.html)
+<br>2 . [DOM API](https://developer.mozilla.org/en-US/docs/Web/API/Document)
+<br>3 . [The XMLHttpRequest Object](The XMLHttpRequest Object)
+<br>4 . [AJAX](https://www.w3schools.com/js/js_ajax_http.asp)
+<br>5 . [Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern)
+<br>6 . [XSS](https://www.owasp.org/index.php/Cross-site_Scripting_(XSS))
+
 # Week 2.7
 
 <br>1 . [AJAX Introduction](https://www.w3schools.com/xml/ajax_intro.asp)
