@@ -1,3 +1,10 @@
+# Week 2.14
+
+```
+cat /home/share/assessments/rdbms/rdbmsrev.txt
+cat /home/share/assessments/rdbms/rdbmsrevans.txt
+```
+
 # Week 2.13
 
 1 . [Normalisation](http://www.sqa.org.uk/e-learning/MDBS01CD/page_20.htm)
