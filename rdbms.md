@@ -353,3 +353,6 @@ passwd
 
 [Cloud](https://docs.google.com/presentation/d/1zjOvPkzQX3q8U8KFRWZu3YmRsofRFmiJYuiJfEjhC-s/edit?usp=sharing)
 [cloud2](https://docs.google.com/presentation/d/1BIjPf0fgDv2TU09hK6RQEVbtSlLxssifeCgHVMbeStQ/edit?usp=sharing)
+[R](https://drive.google.com/file/d/1s5Y7m5LUIPPhVTQ4-VfB6Ix7ldxH5b26/view?usp=sharing)
+[r2](https://drive.google.com/file/d/1cgG7MhbZQM1W66R-XJiVDvpYVt7Oudsd/view?usp=sharing)
+[grid](https://docs.google.com/document/d/1DXpVX2crnaPQfGKAZVM8rweGlQY6Ha3gta3wSGx0H8Y/edit?usp=sharing)
