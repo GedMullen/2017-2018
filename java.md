@@ -1,3 +1,5 @@
+<br>[number systems](https://docs.google.com/presentation/d/1keb0_HB7nIQgdvi9jpvYlMxxrx5xl521KeD7KLChYz4/edit?usp=sharing)
+
 # Week 17
 
 <br>1 . [OO Revision](https://docs.google.com/document/d/1CfBcOplYDJ-MOAefeLgYAIzs4Q5rPcfK0XeKWdAF4xU/edit?usp=docslist_api)
